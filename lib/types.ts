@@ -2,6 +2,8 @@ export type ConstituencyResult = {
   number: number;
   constituency: string;
   status: "Result Declared" | "Leading" | "Counting" | "Unknown";
+  roundsCounted: number | null;
+  roundsTotal: number | null;
   winner: {
     candidate: string;
     party: string;

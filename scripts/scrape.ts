@@ -109,14 +109,20 @@ const EXTRACT_FN = `(() => {
     // ----- Status -----
     const bodyText = text(document.body);
     let status = "Unknown";
+    let roundsCounted = null;
+    let roundsTotal = null;
     const roundEl = document.querySelector(".round-status");
     if (roundEl) {
       const m = text(roundEl).match(/(\\d+)\\s*\\/\\s*(\\d+)/);
-      if (m && m[1] && m[2] && m[1] === m[2]) status = "Counting";
-      else status = "Counting";
+      if (m) {
+        roundsCounted = parseInt(m[1], 10);
+        roundsTotal = parseInt(m[2], 10);
+        if (roundsCounted > 0 && roundsCounted === roundsTotal) status = "Result Declared";
+        else if (roundsCounted < roundsTotal) status = "Counting";
+      }
     }
     if (/result\\s+declared/i.test(bodyText)) status = "Result Declared";
-    else if (/\\bleading\\b/i.test(bodyText) && status === "Unknown") status = "Leading";
+    else if (status === "Unknown" && /\\bleading\\b/i.test(bodyText)) status = "Leading";
 
     // ----- Candidate table -----
     const candidates = [];
@@ -166,6 +172,8 @@ const EXTRACT_FN = `(() => {
     return {
       constituency,
       status,
+      roundsCounted,
+      roundsTotal,
       winner: top
         ? { candidate: top.candidate, party: top.party, partyShort: abbrev(top.party), votes: top.votes }
         : null,
@@ -225,6 +233,8 @@ async function scrapeOne(
     number: acNumber,
     constituency: `AC ${acNumber}`,
     status: "Unknown",
+    roundsCounted: null,
+    roundsTotal: null,
     winner: null,
     runnerUp: null,
     margin: null,
