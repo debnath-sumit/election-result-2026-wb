@@ -1,0 +1,51 @@
+name: Scrape ECI results
+
+on:
+  schedule:
+    # every 10 minutes
+    - cron: "*/10 * * * *"
+  workflow_dispatch: # allow manual run
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Playwright browser
+        run: pnpm exec playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: pnpm scrape
+
+      - name: Commit results if changed
+        run: |
+          if [ -n "$(git status --porcelain data/results.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/results.json
+            git commit -m "data: refresh ECI results $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No changes to commit."
+          fi

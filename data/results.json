@@ -1,0 +1,200 @@
+{
+  "state": "West Bengal",
+  "stateCode": "S25",
+  "electionTitle": "Legislative Assembly Election, May 2026",
+  "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
+  "scrapedAt": "2026-05-04T17:14:41.710Z",
+  "totalConstituencies": 294,
+  "results": [
+    {
+      "number": 1,
+      "constituency": "1 - MEKLIGANJ",
+      "status": "Counting",
+      "winner": {
+        "candidate": "DADHIRAM RAY",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 119109
+      },
+      "runnerUp": {
+        "candidate": "ADHIKARY PARESH CHANDRA",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 89525
+      },
+      "margin": 29584,
+      "totalVotes": 218859
+    },
+    {
+      "number": 2,
+      "constituency": "2 - MATHABHANGA",
+      "status": "Counting",
+      "winner": {
+        "candidate": "NISHITH PRAMANIK",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 143340
+      },
+      "runnerUp": {
+        "candidate": "DR. SABLU BARMAN",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 86250
+      },
+      "margin": 57090,
+      "totalVotes": 241845
+    },
+    {
+      "number": 3,
+      "constituency": "3 - COOCHBEHAR UTTAR",
+      "status": "Counting",
+      "winner": {
+        "candidate": "SUKUMAR RAY",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 155327
+      },
+      "runnerUp": {
+        "candidate": "PARTHA PRATIM RAY",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 84943
+      },
+      "margin": 70384,
+      "totalVotes": 254175
+    },
+    {
+      "number": 4,
+      "constituency": "4 - COOCHBEHAR DAKSHIN",
+      "status": "Counting",
+      "winner": {
+        "candidate": "RATHINDRA BOSE",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 108482
+      },
+      "runnerUp": {
+        "candidate": "AVIJIT DE BHOWMIK",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 85198
+      },
+      "margin": 23284,
+      "totalVotes": 205413
+    },
+    {
+      "number": 5,
+      "constituency": "5 - SITALKUCHI",
+      "status": "Counting",
+      "winner": {
+        "candidate": "SABITRI BARMAN",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 144367
+      },
+      "runnerUp": {
+        "candidate": "HARIHAR DAS",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 119089
+      },
+      "margin": 25278,
+      "totalVotes": 279822
+    },
+    {
+      "number": 6,
+      "constituency": "6 - SITAI",
+      "status": "Counting",
+      "winner": {
+        "candidate": "SANGITA ROY",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 128188
+      },
+      "runnerUp": {
+        "candidate": "ASHUTOSH BARMA",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 125467
+      },
+      "margin": 2721,
+      "totalVotes": 265319
+    },
+    {
+      "number": 7,
+      "constituency": "7 - DINHATA",
+      "status": "Counting",
+      "winner": {
+        "candidate": "AJAY RAY",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 138255
+      },
+      "runnerUp": {
+        "candidate": "UDAYAN GUHA",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 120808
+      },
+      "margin": 17447,
+      "totalVotes": 267925
+    },
+    {
+      "number": 8,
+      "constituency": "8 - NATABARI",
+      "status": "Counting",
+      "winner": {
+        "candidate": "GIRIJA SHANKAR RAY",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 126911
+      },
+      "runnerUp": {
+        "candidate": "SAILENDRA NATH BARMA",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 92298
+      },
+      "margin": 34613,
+      "totalVotes": 232716
+    },
+    {
+      "number": 9,
+      "constituency": "9 - TUFANGANJ",
+      "status": "Counting",
+      "winner": {
+        "candidate": "MALATI RAVA ROY",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 122525
+      },
+      "runnerUp": {
+        "candidate": "SHIBSANKAR PAUL",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 96068
+      },
+      "margin": 26457,
+      "totalVotes": 230829
+    },
+    {
+      "number": 10,
+      "constituency": "10 - KUMARGRAM",
+      "status": "Counting",
+      "winner": {
+        "candidate": "MANOJ KUMAR ORAON",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 143044
+      },
+      "runnerUp": {
+        "candidate": "RAJEEV TIRKEY",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 90167
+      },
+      "margin": 52877,
+      "totalVotes": 246827
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# deps
+node_modules
+.pnpm-store
+
+# build
+.next
+out
+build
+next-env.d.ts
+*.tsbuildinfo
+
+# misc
+.DS_Store
+.env*.local
+.vercel
+
+# scraper
+/playwright-report
+/test-results
+/tmp
