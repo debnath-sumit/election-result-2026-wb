@@ -54,7 +54,7 @@ export default function Page() {
 
       <ResultsTable results={data.results} />
 
-      <footer className="mt-10 text-xs text-slate-500">
+      <footer className="mt-10 space-y-2 text-xs text-slate-500">
         <p>
           Data scraped from the Election Commission of India. This site is unofficial
           and provided for convenience only. For authoritative results, refer to{" "}
@@ -67,6 +67,12 @@ export default function Page() {
             results.eci.gov.in
           </a>
           .
+        </p>
+        <p>
+          Designed by{" "}
+          <span className="font-semibold text-slate-700 dark:text-slate-200">
+            Sumit Debnath
+          </span>
         </p>
       </footer>
     </main>
