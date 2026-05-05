@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-05-05T06:41:33.014Z",
+  "scrapedAt": "2026-05-05T08:47:55.166Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -2403,23 +2403,23 @@
     {
       "number": 115,
       "constituency": "115 - RAJARHAT NEW TOWN",
-      "status": "Counting",
-      "roundsCounted": 17,
+      "status": "Result Declared",
+      "roundsCounted": 18,
       "roundsTotal": 18,
       "winner": {
-        "candidate": "TAPASH CHATTERJEE",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 106250
-      },
-      "runnerUp": {
         "candidate": "PIYUSH KANODIA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 105927
+        "votes": 106564
       },
-      "margin": 323,
-      "totalVotes": 251912
+      "runnerUp": {
+        "candidate": "TAPASH CHATTERJEE",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 106255
+      },
+      "margin": 309,
+      "totalVotes": 252568
     },
     {
       "number": 116,
