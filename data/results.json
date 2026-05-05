@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-05-05T08:47:55.166Z",
+  "scrapedAt": "2026-05-05T10:32:23.521Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -2416,10 +2416,10 @@
         "candidate": "TAPASH CHATTERJEE",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 106255
+        "votes": 106248
       },
-      "margin": 309,
-      "totalVotes": 252568
+      "margin": 316,
+      "totalVotes": 252560
     },
     {
       "number": 116,
