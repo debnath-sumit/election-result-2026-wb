@@ -3,13 +3,15 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-05-04T17:28:22.988Z",
+  "scrapedAt": "2026-05-05T04:35:11.939Z",
   "totalConstituencies": 294,
   "results": [
     {
       "number": 1,
       "constituency": "1 - MEKLIGANJ",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "DADHIRAM RAY",
         "party": "Bharatiya Janata Party",
@@ -23,14 +25,14 @@
         "votes": 89525
       },
       "margin": 29584,
-      "totalVotes": 218859,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218859
     },
     {
       "number": 2,
       "constituency": "2 - MATHABHANGA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "NISHITH PRAMANIK",
         "party": "Bharatiya Janata Party",
@@ -44,14 +46,14 @@
         "votes": 86250
       },
       "margin": 57090,
-      "totalVotes": 241845,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 241845
     },
     {
       "number": 3,
       "constituency": "3 - COOCHBEHAR UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SUKUMAR RAY",
         "party": "Bharatiya Janata Party",
@@ -65,14 +67,14 @@
         "votes": 84943
       },
       "margin": 70384,
-      "totalVotes": 254175,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 254175
     },
     {
       "number": 4,
       "constituency": "4 - COOCHBEHAR DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "RATHINDRA BOSE",
         "party": "Bharatiya Janata Party",
@@ -86,14 +88,14 @@
         "votes": 85198
       },
       "margin": 23284,
-      "totalVotes": 205413,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 205413
     },
     {
       "number": 5,
       "constituency": "5 - SITALKUCHI",
       "status": "Result Declared",
+      "roundsCounted": 27,
+      "roundsTotal": 27,
       "winner": {
         "candidate": "SABITRI BARMAN",
         "party": "Bharatiya Janata Party",
@@ -107,14 +109,14 @@
         "votes": 119089
       },
       "margin": 25278,
-      "totalVotes": 279822,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 279822
     },
     {
       "number": 6,
       "constituency": "6 - SITAI",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SANGITA ROY",
         "party": "All India Trinamool Congress",
@@ -128,14 +130,14 @@
         "votes": 125467
       },
       "margin": 2721,
-      "totalVotes": 265319,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 265319
     },
     {
       "number": 7,
       "constituency": "7 - DINHATA",
       "status": "Result Declared",
+      "roundsCounted": 25,
+      "roundsTotal": 25,
       "winner": {
         "candidate": "AJAY RAY",
         "party": "Bharatiya Janata Party",
@@ -149,14 +151,14 @@
         "votes": 120808
       },
       "margin": 17447,
-      "totalVotes": 267925,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 267925
     },
     {
       "number": 8,
       "constituency": "8 - NATABARI",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "GIRIJA SHANKAR RAY",
         "party": "Bharatiya Janata Party",
@@ -170,14 +172,14 @@
         "votes": 92298
       },
       "margin": 34613,
-      "totalVotes": 232716,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232716
     },
     {
       "number": 9,
       "constituency": "9 - TUFANGANJ",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "MALATI RAVA ROY",
         "party": "Bharatiya Janata Party",
@@ -191,14 +193,14 @@
         "votes": 96068
       },
       "margin": 26457,
-      "totalVotes": 230829,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 230829
     },
     {
       "number": 10,
       "constituency": "10 - KUMARGRAM",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "MANOJ KUMAR ORAON",
         "party": "Bharatiya Janata Party",
@@ -212,14 +214,14 @@
         "votes": 90167
       },
       "margin": 52877,
-      "totalVotes": 246827,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246827
     },
     {
       "number": 11,
       "constituency": "11 - KALCHINI",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "BISHAL LAMA",
         "party": "Bharatiya Janata Party",
@@ -233,35 +235,35 @@
         "votes": 76916
       },
       "margin": 37843,
-      "totalVotes": 202607,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 202607
     },
     {
       "number": 12,
       "constituency": "12 - ALIPURDUARS",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "PARITOSH DAS",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 131687
+        "votes": 143242
       },
       "runnerUp": {
         "candidate": "SUMAN KANJILAL",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 67609
+        "votes": 72822
       },
-      "margin": 64078,
-      "totalVotes": 214486,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 70420,
+      "totalVotes": 232466
     },
     {
       "number": 13,
       "constituency": "13 - FALAKATA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "DIPAK BARMAN",
         "party": "Bharatiya Janata Party",
@@ -275,14 +277,14 @@
         "votes": 88371
       },
       "margin": 45999,
-      "totalVotes": 235953,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 235953
     },
     {
       "number": 14,
       "constituency": "14 - MADARIHAT",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "LAXUMAN LIMBU",
         "party": "Bharatiya Janata Party",
@@ -296,14 +298,14 @@
         "votes": 61578
       },
       "margin": 40910,
-      "totalVotes": 176753,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 176753
     },
     {
       "number": 15,
       "constituency": "15 - DHUPGURI",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "NARESH ROY",
         "party": "Bharatiya Janata Party",
@@ -317,14 +319,14 @@
         "votes": 96248
       },
       "margin": 38550,
-      "totalVotes": 248496,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 248496
     },
     {
       "number": 16,
       "constituency": "16 - MAYNAGURI",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "DALIM CHANDRA ROY",
         "party": "Bharatiya Janata Party",
@@ -338,14 +340,14 @@
         "votes": 90900
       },
       "margin": 56503,
-      "totalVotes": 251447,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 251447
     },
     {
       "number": 17,
       "constituency": "17 - JALPAIGURI",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "ANANTA DEB ADHIKARY",
         "party": "Bharatiya Janata Party",
@@ -359,14 +361,14 @@
         "votes": 74182
       },
       "margin": 68805,
-      "totalVotes": 237856,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237856
     },
     {
       "number": 18,
       "constituency": "18 - RAJGANJ",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "DINESH SARKAR",
         "party": "Bharatiya Janata Party",
@@ -380,14 +382,14 @@
         "votes": 93180
       },
       "margin": 21477,
-      "totalVotes": 224379,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 224379
     },
     {
       "number": 19,
       "constituency": "19 - DABGRAM-FULBARI",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SIKHA CHATTERJEE",
         "party": "Bharatiya Janata Party",
@@ -401,14 +403,14 @@
         "votes": 68585
       },
       "margin": 97715,
-      "totalVotes": 251889,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 251889
     },
     {
       "number": 20,
       "constituency": "20 - MAL",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "SUKRA MUNDA",
         "party": "Bharatiya Janata Party",
@@ -422,14 +424,14 @@
         "votes": 96603
       },
       "margin": 15492,
-      "totalVotes": 224453,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 224453
     },
     {
       "number": 21,
       "constituency": "21 - NAGRAKATA",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "PUNA BHENGRA",
         "party": "Bharatiya Janata Party",
@@ -443,14 +445,14 @@
         "votes": 77620
       },
       "margin": 25858,
-      "totalVotes": 203963,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 203963
     },
     {
       "number": 22,
       "constituency": "22 - KALIMPONG",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "BHARAT KUMAR CHETRI",
         "party": "Bharatiya Janata Party",
@@ -464,14 +466,14 @@
         "votes": 62826
       },
       "margin": 21464,
-      "totalVotes": 169477,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 169477
     },
     {
       "number": 23,
       "constituency": "23 - DARJEELING",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "NOMAN RAI",
         "party": "Bharatiya Janata Party",
@@ -485,14 +487,14 @@
         "votes": 56019
       },
       "margin": 6057,
-      "totalVotes": 173807,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 173807
     },
     {
       "number": 24,
       "constituency": "24 - KURSEONG",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "SONAM LAMA",
         "party": "Bharatiya Janata Party",
@@ -506,14 +508,14 @@
         "votes": 57871
       },
       "margin": 17007,
-      "totalVotes": 181833,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 181833
     },
     {
       "number": 25,
       "constituency": "25 - MATIGARA-NAXALBARI",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "ANANDAMAY BARMAN",
         "party": "Bharatiya Janata Party",
@@ -527,14 +529,14 @@
         "votes": 62640
       },
       "margin": 104265,
-      "totalVotes": 250985,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 250985
     },
     {
       "number": 26,
       "constituency": "26 - SILIGURI",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "SHANKAR GHOSH",
         "party": "Bharatiya Janata Party",
@@ -548,14 +550,14 @@
         "votes": 47568
       },
       "margin": 73192,
-      "totalVotes": 183573,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 183573
     },
     {
       "number": 27,
       "constituency": "27 - PHANSIDEWA",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "DURGA MURMU",
         "party": "Bharatiya Janata Party",
@@ -569,14 +571,14 @@
         "votes": 72978
       },
       "margin": 45263,
-      "totalVotes": 207732,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207732
     },
     {
       "number": 28,
       "constituency": "28 - CHOPRA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "HAMIDUL RAHAMAN",
         "party": "All India Trinamool Congress",
@@ -590,14 +592,14 @@
         "votes": 51862
       },
       "margin": 69124,
-      "totalVotes": 211163,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 211163
     },
     {
       "number": 29,
       "constituency": "29 - ISLAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "AGARWAL KANAIA LAL",
         "party": "All India Trinamool Congress",
@@ -611,14 +613,14 @@
         "votes": 68054
       },
       "margin": 40063,
-      "totalVotes": 185961,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 185961
     },
     {
       "number": 30,
       "constituency": "30 - GOALPOKHAR",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "MD GHULAM RABBANI",
         "party": "All India Trinamool Congress",
@@ -632,14 +634,14 @@
         "votes": 38315
       },
       "margin": 83790,
-      "totalVotes": 183176,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 183176
     },
     {
       "number": 31,
       "constituency": "31 - CHAKULIA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "AZAD MINHAJUL ARFIN",
         "party": "All India Trinamool Congress",
@@ -653,14 +655,14 @@
         "votes": 62266
       },
       "margin": 28011,
-      "totalVotes": 199125,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 199125
     },
     {
       "number": 32,
       "constituency": "32 - KARANDIGHI",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "BIRAJ BISWAS",
         "party": "Bharatiya Janata Party",
@@ -674,14 +676,14 @@
         "votes": 76391
       },
       "margin": 19869,
-      "totalVotes": 219973,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219973
     },
     {
       "number": 33,
       "constituency": "33 - HEMTABAD",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "HARIPADA BARMAN",
         "party": "Bharatiya Janata Party",
@@ -695,14 +697,14 @@
         "votes": 103168
       },
       "margin": 12361,
-      "totalVotes": 239372,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239372
     },
     {
       "number": 34,
       "constituency": "34 - KALIAGANJ",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "UTPAL BRAHMACHARO",
         "party": "Bharatiya Janata Party",
@@ -716,14 +718,14 @@
         "votes": 81924
       },
       "margin": 76425,
-      "totalVotes": 258225,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 258225
     },
     {
       "number": 35,
       "constituency": "35 - RAIGANJ",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "KOUSHIK CHOWDHURY",
         "party": "Bharatiya Janata Party",
@@ -737,14 +739,14 @@
         "votes": 46920
       },
       "margin": 58641,
-      "totalVotes": 164804,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 164804
     },
     {
       "number": 36,
       "constituency": "36 - ITAHAR",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "MOSARAF HUSSEN",
         "party": "All India Trinamool Congress",
@@ -758,14 +760,14 @@
         "votes": 70294
       },
       "margin": 27878,
-      "totalVotes": 204159,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204159
     },
     {
       "number": 37,
       "constituency": "37 - KUSHMANDI",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "TAPAS CHANDRA ROY",
         "party": "Bharatiya Janata Party",
@@ -779,14 +781,14 @@
         "votes": 88374
       },
       "margin": 9063,
-      "totalVotes": 199526,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 199526
     },
     {
       "number": 38,
       "constituency": "38 - KUMARGANJ",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "TORAF HOSSAIN MANDAL",
         "party": "All India Trinamool Congress",
@@ -800,14 +802,14 @@
         "votes": 76106
       },
       "margin": 6685,
-      "totalVotes": 173869,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 173869
     },
     {
       "number": 39,
       "constituency": "39 - BALURGHAT",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "BIDYUT KUMAR ROY",
         "party": "Bharatiya Janata Party",
@@ -821,14 +823,14 @@
         "votes": 48121
       },
       "margin": 47576,
-      "totalVotes": 158296,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 158296
     },
     {
       "number": 40,
       "constituency": "40 - TAPAN",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "BUDHRAI TUDU",
         "party": "Bharatiya Janata Party",
@@ -842,14 +844,14 @@
         "votes": 68793
       },
       "margin": 36987,
-      "totalVotes": 186702,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 186702
     },
     {
       "number": 41,
       "constituency": "41 - GANGARAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SATYENDRA NATH ROY",
         "party": "Bharatiya Janata Party",
@@ -863,14 +865,14 @@
         "votes": 76744
       },
       "margin": 28339,
-      "totalVotes": 192823,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 192823
     },
     {
       "number": 42,
       "constituency": "42 - HARIRAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BIPLAB MITRA",
         "party": "All India Trinamool Congress",
@@ -884,14 +886,14 @@
         "votes": 91112
       },
       "margin": 1986,
-      "totalVotes": 204074,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204074
     },
     {
       "number": 43,
       "constituency": "43 - HABIBPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "JOYEL MURMU",
         "party": "Bharatiya Janata Party",
@@ -905,14 +907,14 @@
         "votes": 63874
       },
       "margin": 78188,
-      "totalVotes": 227613,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227613
     },
     {
       "number": 44,
       "constituency": "44 - GAZOLE",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "CHINMOY DEB BARMAN",
         "party": "Bharatiya Janata Party",
@@ -926,14 +928,14 @@
         "votes": 93349
       },
       "margin": 38192,
-      "totalVotes": 243885,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 243885
     },
     {
       "number": 45,
       "constituency": "45 - CHANCHAL",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "PRASUN BANERJEE",
         "party": "All India Trinamool Congress",
@@ -947,14 +949,14 @@
         "votes": 64140
       },
       "margin": 63874,
-      "totalVotes": 234409,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 234409
     },
     {
       "number": 46,
       "constituency": "46 - HARISCHANDRAPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "MD. MATIBUR RAHAMAN",
         "party": "All India Trinamool Congress",
@@ -968,14 +970,14 @@
         "votes": 64833
       },
       "margin": 48271,
-      "totalVotes": 227099,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227099
     },
     {
       "number": 47,
       "constituency": "47 - MALATIPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "ABDUR RAHIM BOXI",
         "party": "All India Trinamool Congress",
@@ -989,14 +991,14 @@
         "votes": 44376
       },
       "margin": 59747,
-      "totalVotes": 202035,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 202035
     },
     {
       "number": 48,
       "constituency": "48 - RATUA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SAMAR MUKHERJEE",
         "party": "All India Trinamool Congress",
@@ -1010,14 +1012,14 @@
         "votes": 74272
       },
       "margin": 32562,
-      "totalVotes": 233138,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233138
     },
     {
       "number": 49,
       "constituency": "49 - MANIKCHAK",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "GOUR CHANDRA MANDAL",
         "party": "Bharatiya Janata Party",
@@ -1031,14 +1033,14 @@
         "votes": 96180
       },
       "margin": 13938,
-      "totalVotes": 225363,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 225363
     },
     {
       "number": 50,
       "constituency": "50 - MALDAHA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "GOPAL CHANDRA SAHA",
         "party": "Bharatiya Janata Party",
@@ -1052,14 +1054,14 @@
         "votes": 73528
       },
       "margin": 50128,
-      "totalVotes": 220797,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220797
     },
     {
       "number": 51,
       "constituency": "51 - ENGLISH BAZAR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "AMLAN BHADURI (BURO)",
         "party": "Bharatiya Janata Party",
@@ -1073,14 +1075,14 @@
         "votes": 60312
       },
       "margin": 93784,
-      "totalVotes": 234560,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 234560
     },
     {
       "number": 52,
       "constituency": "52 - MOTHABARI",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "ISLAM MD NAJRUL",
         "party": "All India Trinamool Congress",
@@ -1094,14 +1096,14 @@
         "votes": 55209
       },
       "margin": 10496,
-      "totalVotes": 162178,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 162178
     },
     {
       "number": 53,
       "constituency": "53 - SUJAPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "SABINA YEASMIN",
         "party": "All India Trinamool Congress",
@@ -1115,14 +1117,14 @@
         "votes": 52508
       },
       "margin": 60287,
-      "totalVotes": 227125,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227125
     },
     {
       "number": 54,
       "constituency": "54 - BAISNABNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "RAJU KARMAKAR",
         "party": "Bharatiya Janata Party",
@@ -1136,14 +1138,14 @@
         "votes": 61811
       },
       "margin": 46881,
-      "totalVotes": 224839,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 224839
     },
     {
       "number": 55,
       "constituency": "55 - FARAKKA",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "MOTAB SHAIKH",
         "party": "Indian National Congress",
@@ -1157,14 +1159,14 @@
         "votes": 54857
       },
       "margin": 8193,
-      "totalVotes": 174841,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 174841
     },
     {
       "number": 56,
       "constituency": "56 - SAMSERGANJ",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "MOHAMMED NOOR ALAM",
         "party": "All India Trinamool Congress",
@@ -1178,14 +1180,14 @@
         "votes": 54331
       },
       "margin": 7587,
-      "totalVotes": 155430,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 155430
     },
     {
       "number": 57,
       "constituency": "57 - SUTI",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "EMANI BISWAS",
         "party": "All India Trinamool Congress",
@@ -1199,14 +1201,14 @@
         "votes": 68973
       },
       "margin": 12357,
-      "totalVotes": 220852,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220852
     },
     {
       "number": 58,
       "constituency": "58 - JANGIPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "CHITTA MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -1220,14 +1222,14 @@
         "votes": 80659
       },
       "margin": 10542,
-      "totalVotes": 212606,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 212606
     },
     {
       "number": 59,
       "constituency": "59 - RAGHUNATHGANJ",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "AKHRUZZAMAN",
         "party": "All India Trinamool Congress",
@@ -1241,14 +1243,14 @@
         "votes": 48354
       },
       "margin": 40555,
-      "totalVotes": 194765,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 194765
     },
     {
       "number": 60,
       "constituency": "60 - SAGARDIGHI",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "BAYRON BISWAS",
         "party": "All India Trinamool Congress",
@@ -1262,14 +1264,14 @@
         "votes": 56521
       },
       "margin": 34260,
-      "totalVotes": 207660,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207660
     },
     {
       "number": 61,
       "constituency": "61 - LALGOLA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "ABDUL AZIZ DOCTOR",
         "party": "All India Trinamool Congress",
@@ -1283,14 +1285,14 @@
         "votes": 48994
       },
       "margin": 18960,
-      "totalVotes": 180167,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 180167
     },
     {
       "number": 62,
       "constituency": "62 - BHAGAWANGOLA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "REYAT HOSSAIN SARKAR",
         "party": "All India Trinamool Congress",
@@ -1304,14 +1306,14 @@
         "votes": 49590
       },
       "margin": 56407,
-      "totalVotes": 218216,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218216
     },
     {
       "number": 63,
       "constituency": "63 - RANINAGAR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "JULFIKAR ALI",
         "party": "Indian National Congress",
@@ -1325,14 +1327,14 @@
         "votes": 76722
       },
       "margin": 2701,
-      "totalVotes": 237202,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237202
     },
     {
       "number": 64,
       "constituency": "64 - MURSHIDABAD",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "GOURI SANKAR GHOSH",
         "party": "Bharatiya Janata Party",
@@ -1346,14 +1348,14 @@
         "votes": 82922
       },
       "margin": 31521,
-      "totalVotes": 237534,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237534
     },
     {
       "number": 65,
       "constituency": "65 - NABAGRAM",
       "status": "Result Declared",
+      "roundsCounted": 25,
+      "roundsTotal": 25,
       "winner": {
         "candidate": "DILIP SAHA",
         "party": "Bharatiya Janata Party",
@@ -1367,14 +1369,14 @@
         "votes": 72820
       },
       "margin": 5919,
-      "totalVotes": 221580,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221580
     },
     {
       "number": 66,
       "constituency": "66 - KHARGRAM",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "MITALI MAL",
         "party": "Bharatiya Janata Party",
@@ -1388,14 +1390,14 @@
         "votes": 68415
       },
       "margin": 9333,
-      "totalVotes": 204477,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204477
     },
     {
       "number": 67,
       "constituency": "67 - BURWAN",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "SUKHEN KUMAR BAGDI",
         "party": "Bharatiya Janata Party",
@@ -1409,14 +1411,14 @@
         "votes": 69361
       },
       "margin": 22300,
-      "totalVotes": 188917,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 188917
     },
     {
       "number": 68,
       "constituency": "68 - KANDI",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "GARGI DAS GHOSH",
         "party": "Bharatiya Janata Party",
@@ -1430,14 +1432,14 @@
         "votes": 63020
       },
       "margin": 10335,
-      "totalVotes": 199460,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 199460
     },
     {
       "number": 69,
       "constituency": "69 - BHARATPUR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "MUSTAFIJUR RAHAMAN (SUMAN)",
         "party": "All India Trinamool Congress",
@@ -1451,14 +1453,14 @@
         "votes": 60117
       },
       "margin": 30753,
-      "totalVotes": 214424,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 214424
     },
     {
       "number": 70,
       "constituency": "70 - REJINAGAR",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "HUMAYUN KABIR",
         "party": "Aam Janata Unnayan party",
@@ -1472,14 +1474,14 @@
         "votes": 64660
       },
       "margin": 58876,
-      "totalVotes": 239295,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239295
     },
     {
       "number": 71,
       "constituency": "71 - BELDANGA",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "BHARAT KUMAR JHAWAR",
         "party": "Bharatiya Janata Party",
@@ -1493,14 +1495,14 @@
         "votes": 59664
       },
       "margin": 13208,
-      "totalVotes": 228591,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 228591
     },
     {
       "number": 72,
       "constituency": "72 - BAHARAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "SUBRATA MAITRA (KANCHAN)",
         "party": "Bharatiya Janata Party",
@@ -1514,14 +1516,14 @@
         "votes": 73540
       },
       "margin": 17548,
-      "totalVotes": 224268,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 224268
     },
     {
       "number": 73,
       "constituency": "73 - HARIHARPARA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "NIAMOT SHEIKH",
         "party": "All India Trinamool Congress",
@@ -1535,14 +1537,14 @@
         "votes": 67673
       },
       "margin": 12665,
-      "totalVotes": 235296,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 235296
     },
     {
       "number": 74,
       "constituency": "74 - NOWDA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "HUMAYUN KABIR",
         "party": "Aam Janata Unnayan party",
@@ -1556,14 +1558,14 @@
         "votes": 58520
       },
       "margin": 27943,
-      "totalVotes": 221600,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221600
     },
     {
       "number": 75,
       "constituency": "75 - DOMKAL",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "MD. MOSTAFIJUR RAHAMAN",
         "party": "Communist Party of India (Marxist)",
@@ -1577,14 +1579,14 @@
         "votes": 91586
       },
       "margin": 16296,
-      "totalVotes": 257790,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 257790
     },
     {
       "number": 76,
       "constituency": "76 - JALANGI",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BABAR ALI",
         "party": "All India Trinamool Congress",
@@ -1598,14 +1600,14 @@
         "votes": 67168
       },
       "margin": 21516,
-      "totalVotes": 253306,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 253306
     },
     {
       "number": 77,
       "constituency": "77 - KARIMPUR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SAMARENDRANATH GHOSH",
         "party": "Bharatiya Janata Party",
@@ -1619,14 +1621,14 @@
         "votes": 95049
       },
       "margin": 10185,
-      "totalVotes": 240916,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 240916
     },
     {
       "number": 78,
       "constituency": "78 - TEHATTA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SUBRATA KABIRAJ",
         "party": "Bharatiya Janata Party",
@@ -1640,35 +1642,35 @@
         "votes": 83885
       },
       "margin": 28253,
-      "totalVotes": 233588,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233588
     },
     {
       "number": 79,
       "constituency": "79 - PALASHIPARA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "RUKBANUR RAHMAN",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 79193
+        "votes": 89241
       },
       "runnerUp": {
         "candidate": "ANIMA DUTTA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 71331
+        "votes": 77787
       },
-      "margin": 7862,
-      "totalVotes": 193405,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 11454,
+      "totalVotes": 214650
     },
     {
       "number": 80,
       "constituency": "80 - KALIGANJ",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "ALIFA AHMED",
         "party": "All India Trinamool Congress",
@@ -1682,14 +1684,14 @@
         "votes": 79120
       },
       "margin": 10172,
-      "totalVotes": 219023,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219023
     },
     {
       "number": 81,
       "constituency": "81 - NAKASHIPARA",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "SANTANU DEY",
         "party": "Bharatiya Janata Party",
@@ -1703,14 +1705,14 @@
         "votes": 83273
       },
       "margin": 17327,
-      "totalVotes": 205920,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 205920
     },
     {
       "number": 82,
       "constituency": "82 - CHAPRA",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "JEBER SEKH",
         "party": "All India Trinamool Congress",
@@ -1724,14 +1726,14 @@
         "votes": 66305
       },
       "margin": 30780,
-      "totalVotes": 210762,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 210762
     },
     {
       "number": 83,
       "constituency": "83 - KRISHNANAGAR UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "TARAK NATH CHATTERJEE",
         "party": "Bharatiya Janata Party",
@@ -1745,14 +1747,14 @@
         "votes": 54850
       },
       "margin": 78361,
-      "totalVotes": 202057,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 202057
     },
     {
       "number": 84,
       "constituency": "84 - NABADWIP",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "SRUTISEKHAR GOSWAMI",
         "party": "Bharatiya Janata Party",
@@ -1766,14 +1768,14 @@
         "votes": 87187
       },
       "margin": 21444,
-      "totalVotes": 218181,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218181
     },
     {
       "number": 85,
       "constituency": "85 - KRISHNANAGAR DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "SADHAN GHOSH",
         "party": "Bharatiya Janata Party",
@@ -1787,14 +1789,14 @@
         "votes": 75061
       },
       "margin": 27801,
-      "totalVotes": 197084,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 197084
     },
     {
       "number": 86,
       "constituency": "86 - SANTIPUR",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "SWAPAN KUMAR DAS",
         "party": "Bharatiya Janata Party",
@@ -1808,14 +1810,14 @@
         "votes": 72565
       },
       "margin": 45376,
-      "totalVotes": 214973,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 214973
     },
     {
       "number": 87,
       "constituency": "87 - RANAGHAT UTTAR PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "PARTHA SARATHI CHATTERJEE(BABU)",
         "party": "Bharatiya Janata Party",
@@ -1829,14 +1831,14 @@
         "votes": 71495
       },
       "margin": 57551,
-      "totalVotes": 217135,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 217135
     },
     {
       "number": 88,
       "constituency": "88 - KRISHNAGANJ",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "SUKANTA BISWAS",
         "party": "Bharatiya Janata Party",
@@ -1850,14 +1852,14 @@
         "votes": 78939
       },
       "margin": 60899,
-      "totalVotes": 232467,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232467
     },
     {
       "number": 89,
       "constituency": "89 - RANAGHAT UTTAR PURBA",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "ASHIM BISWAS",
         "party": "Bharatiya Janata Party",
@@ -1871,14 +1873,14 @@
         "votes": 74492
       },
       "margin": 51743,
-      "totalVotes": 211396,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 211396
     },
     {
       "number": 90,
       "constituency": "90 - RANAGHAT DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "ASHIM KUMAR BISWAS",
         "party": "Bharatiya Janata Party",
@@ -1892,14 +1894,14 @@
         "votes": 75546
       },
       "margin": 64464,
-      "totalVotes": 232685,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232685
     },
     {
       "number": 91,
       "constituency": "91 - CHAKDAHA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "BANKIM CHANDRA GHOSH",
         "party": "Bharatiya Janata Party",
@@ -1913,14 +1915,14 @@
         "votes": 78488
       },
       "margin": 36945,
-      "totalVotes": 210720,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 210720
     },
     {
       "number": 92,
       "constituency": "92 - KALYANI",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "ANUPAM BISWAS",
         "party": "Bharatiya Janata Party",
@@ -1934,14 +1936,14 @@
         "votes": 79677
       },
       "margin": 34792,
-      "totalVotes": 215506,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 215506
     },
     {
       "number": 93,
       "constituency": "93 - HARINGHATA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "ASIM KUMAR SARKAR",
         "party": "Bharatiya Janata Party",
@@ -1955,14 +1957,14 @@
         "votes": 85845
       },
       "margin": 22055,
-      "totalVotes": 212756,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 212756
     },
     {
       "number": 94,
       "constituency": "94 - BAGDA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SOMA THAKUR",
         "party": "Bharatiya Janata Party",
@@ -1976,14 +1978,14 @@
         "votes": 86691
       },
       "margin": 34616,
-      "totalVotes": 217223,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 217223
     },
     {
       "number": 95,
       "constituency": "95 - BANGAON UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "ASHOK KIRTANIA",
         "party": "Bharatiya Janata Party",
@@ -1997,14 +1999,14 @@
         "votes": 78647
       },
       "margin": 40670,
-      "totalVotes": 211344,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 211344
     },
     {
       "number": 96,
       "constituency": "96 - BANGAON DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SWAPAN MAJUMDER",
         "party": "Bharatiya Janata Party",
@@ -2018,14 +2020,14 @@
         "votes": 81585
       },
       "margin": 37814,
-      "totalVotes": 212191,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 212191
     },
     {
       "number": 97,
       "constituency": "97 - GAIGHATA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "SUBRATA THAKUR",
         "party": "Bharatiya Janata Party",
@@ -2039,35 +2041,35 @@
         "votes": 73639
       },
       "margin": 47683,
-      "totalVotes": 209201,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 209201
     },
     {
       "number": 98,
       "constituency": "98 - SWARUPNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "BINA MONDAL",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 94449
+        "votes": 94813
       },
       "runnerUp": {
         "candidate": "TARAK SAHA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 78394
+        "votes": 78796
       },
-      "margin": 16055,
-      "totalVotes": 217231,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 16017,
+      "totalVotes": 218120
     },
     {
       "number": 99,
       "constituency": "99 - BADURIA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "BURHANUL MUKADDIM (LITON)",
         "party": "All India Trinamool Congress",
@@ -2081,14 +2083,14 @@
         "votes": 63273
       },
       "margin": 40061,
-      "totalVotes": 227365,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227365
     },
     {
       "number": 100,
       "constituency": "100 - HABRA",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "DEBDAS MONDAL",
         "party": "Bharatiya Janata Party",
@@ -2102,14 +2104,14 @@
         "votes": 73183
       },
       "margin": 31462,
-      "totalVotes": 198737,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 198737
     },
     {
       "number": 101,
       "constituency": "101 - ASHOKNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "DR. SUMAY HIRA",
         "party": "Bharatiya Janata Party",
@@ -2123,14 +2125,14 @@
         "votes": 87399
       },
       "margin": 9408,
-      "totalVotes": 219757,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219757
     },
     {
       "number": 102,
       "constituency": "102 - AMDANGA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "MOHAMMAD KASEM SIDDIQUE",
         "party": "All India Trinamool Congress",
@@ -2144,14 +2146,14 @@
         "votes": 78675
       },
       "margin": 2995,
-      "totalVotes": 213502,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213502
     },
     {
       "number": 103,
       "constituency": "103 - BIJPUR",
       "status": "Result Declared",
+      "roundsCounted": 10,
+      "roundsTotal": 10,
       "winner": {
         "candidate": "SUDIPTA DAS",
         "party": "Bharatiya Janata Party",
@@ -2165,14 +2167,14 @@
         "votes": 58456
       },
       "margin": 13343,
-      "totalVotes": 144886,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 144886
     },
     {
       "number": 104,
       "constituency": "104 - NAIHATI",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "SUMITRO CHATTERJEE",
         "party": "Bharatiya Janata Party",
@@ -2186,14 +2188,14 @@
         "votes": 67054
       },
       "margin": 10430,
-      "totalVotes": 157664,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 157664
     },
     {
       "number": 105,
       "constituency": "105 - BHATPARA",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "PAWAN KUMAR SINGH",
         "party": "Bharatiya Janata Party",
@@ -2207,14 +2209,14 @@
         "votes": 38876
       },
       "margin": 22807,
-      "totalVotes": 106314,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 106314
     },
     {
       "number": 106,
       "constituency": "106 - JAGATDAL",
       "status": "Result Declared",
+      "roundsCounted": 11,
+      "roundsTotal": 11,
       "winner": {
         "candidate": "DR. RAJESH KUMAR",
         "party": "Bharatiya Janata Party",
@@ -2228,14 +2230,14 @@
         "votes": 73442
       },
       "margin": 20909,
-      "totalVotes": 183193,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 183193
     },
     {
       "number": 107,
       "constituency": "107 - NOAPARA",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "ARJUN SINGH",
         "party": "Bharatiya Janata Party",
@@ -2249,14 +2251,14 @@
         "votes": 76759
       },
       "margin": 17656,
-      "totalVotes": 195177,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 195177
     },
     {
       "number": 108,
       "constituency": "108 - BARRACKPUR",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "KAUSTUV BAGCHI",
         "party": "Bharatiya Janata Party",
@@ -2270,14 +2272,14 @@
         "votes": 62644
       },
       "margin": 15822,
-      "totalVotes": 154918,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 154918
     },
     {
       "number": 109,
       "constituency": "109 - KHARDAHA",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "KALYAN CHAKRABORTI",
         "party": "Bharatiya Janata Party",
@@ -2291,14 +2293,14 @@
         "votes": 73266
       },
       "margin": 24486,
-      "totalVotes": 196505,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 196505
     },
     {
       "number": 110,
       "constituency": "110 - DUM DUM UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "SOURAV SIKDAR",
         "party": "Bharatiya Janata Party",
@@ -2312,14 +2314,14 @@
         "votes": 76880
       },
       "margin": 26404,
-      "totalVotes": 223349,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 223349
     },
     {
       "number": 111,
       "constituency": "111 - PANIHATI",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "RATNA DEBNATH",
         "party": "Bharatiya Janata Party",
@@ -2333,14 +2335,14 @@
         "votes": 59141
       },
       "margin": 28836,
-      "totalVotes": 174984,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 174984
     },
     {
       "number": 112,
       "constituency": "112 - KAMARHATI",
       "status": "Result Declared",
+      "roundsCounted": 11,
+      "roundsTotal": 11,
       "winner": {
         "candidate": "MADAN MITRA",
         "party": "All India Trinamool Congress",
@@ -2354,14 +2356,14 @@
         "votes": 59171
       },
       "margin": 5646,
-      "totalVotes": 148272,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 148272
     },
     {
       "number": 113,
       "constituency": "113 - BARANAGAR",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "SAJAL GHOSH",
         "party": "Bharatiya Janata Party",
@@ -2375,14 +2377,14 @@
         "votes": 64774
       },
       "margin": 16956,
-      "totalVotes": 169347,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 169347
     },
     {
       "number": 114,
       "constituency": "114 - DUM DUM",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "ARIJIT BAKSHI",
         "party": "Bharatiya Janata Party",
@@ -2396,35 +2398,35 @@
         "votes": 73908
       },
       "margin": 25273,
-      "totalVotes": 198098,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 198098
     },
     {
       "number": 115,
       "constituency": "115 - RAJARHAT NEW TOWN",
-      "status": "Result Declared",
+      "status": "Counting",
+      "roundsCounted": 17,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "TAPASH CHATTERJEE",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 104324
+        "votes": 106250
       },
       "runnerUp": {
         "candidate": "PIYUSH KANODIA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 102250
+        "votes": 105927
       },
-      "margin": 2074,
-      "totalVotes": 245481,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 323,
+      "totalVotes": 251912
     },
     {
       "number": 116,
       "constituency": "116 - BIDHANNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "SHARADWAT MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -2438,14 +2440,14 @@
         "votes": 60649
       },
       "margin": 37330,
-      "totalVotes": 177484,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 177484
     },
     {
       "number": 117,
       "constituency": "117 - RAJARHAT GOPALPUR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "TARUNJYOTI TEWARI",
         "party": "Bharatiya Janata Party",
@@ -2459,35 +2461,35 @@
         "votes": 73520
       },
       "margin": 27757,
-      "totalVotes": 195730,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 195730
     },
     {
       "number": 118,
       "constituency": "118 - MADHYAMGRAM",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "RATHIN GHOSH",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 91574
+        "votes": 95995
       },
       "runnerUp": {
         "candidate": "ANINDYA BANERJEE",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 89262
+        "votes": 93596
       },
-      "margin": 2312,
-      "totalVotes": 221300,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 2399,
+      "totalVotes": 232916
     },
     {
       "number": 119,
       "constituency": "119 - BARASAT",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SANKAR CHATTERJEE",
         "party": "Bharatiya Janata Party",
@@ -2501,14 +2503,14 @@
         "votes": 87613
       },
       "margin": 34558,
-      "totalVotes": 236603,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 236603
     },
     {
       "number": 120,
       "constituency": "120 - DEGANGA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "ANISUR RAHAMAN BIDESH",
         "party": "All India Trinamool Congress",
@@ -2522,14 +2524,14 @@
         "votes": 83296
       },
       "margin": 17818,
-      "totalVotes": 233473,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233473
     },
     {
       "number": 121,
       "constituency": "121 - HAROA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "ABDUL MATIN MUHAMMAD",
         "party": "All India Trinamool Congress",
@@ -2543,14 +2545,14 @@
         "votes": 68250
       },
       "margin": 49341,
-      "totalVotes": 237469,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237469
     },
     {
       "number": 122,
       "constituency": "122 - MINAKHAN",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "USHA RANI MONDAL",
         "party": "All India Trinamool Congress",
@@ -2564,14 +2566,14 @@
         "votes": 59787
       },
       "margin": 32292,
-      "totalVotes": 215848,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 215848
     },
     {
       "number": 123,
       "constituency": "123 - SANDESHKHALI",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "SANAT SARDAR",
         "party": "Bharatiya Janata Party",
@@ -2585,14 +2587,14 @@
         "votes": 89679
       },
       "margin": 17510,
-      "totalVotes": 216180,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 216180
     },
     {
       "number": 124,
       "constituency": "124 - BASIRHAT DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "SURAJIT MITRA (BADAL)",
         "party": "All India Trinamool Congress",
@@ -2606,14 +2608,14 @@
         "votes": 103421
       },
       "margin": 9544,
-      "totalVotes": 250535,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 250535
     },
     {
       "number": 125,
       "constituency": "125 - BASIRHAT UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "MD. TAUSEFFUR RAHMAN",
         "party": "All India Trinamool Congress",
@@ -2627,14 +2629,14 @@
         "votes": 58233
       },
       "margin": 57270,
-      "totalVotes": 238563,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 238563
     },
     {
       "number": 126,
       "constituency": "126 - HINGALGANJ",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "REKHA PATRA",
         "party": "Bharatiya Janata Party",
@@ -2648,14 +2650,14 @@
         "votes": 94786
       },
       "margin": 5421,
-      "totalVotes": 207071,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207071
     },
     {
       "number": 127,
       "constituency": "127 - GOSABA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "BIKARNA NASKAR",
         "party": "Bharatiya Janata Party",
@@ -2669,14 +2671,14 @@
         "votes": 92392
       },
       "margin": 16100,
-      "totalVotes": 211328,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 211328
     },
     {
       "number": 128,
       "constituency": "128 - BASANTI",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "NILIMA MISTRY BISHAL",
         "party": "All India Trinamool Congress",
@@ -2690,14 +2692,14 @@
         "votes": 71314
       },
       "margin": 56181,
-      "totalVotes": 231860,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 231860
     },
     {
       "number": 129,
       "constituency": "129 - KULTALI",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "GANESH CHANDRA MONDAL",
         "party": "All India Trinamool Congress",
@@ -2711,14 +2713,14 @@
         "votes": 87159
       },
       "margin": 59276,
-      "totalVotes": 253551,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 253551
     },
     {
       "number": 130,
       "constituency": "130 - PATHARPRATIMA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SAMIR KUMAR JANA",
         "party": "All India Trinamool Congress",
@@ -2732,14 +2734,14 @@
         "votes": 112291
       },
       "margin": 4873,
-      "totalVotes": 246059,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246059
     },
     {
       "number": 131,
       "constituency": "131 - KAKDWIP",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "DIPANKAR JANA",
         "party": "Bharatiya Janata Party",
@@ -2753,14 +2755,14 @@
         "votes": 104613
       },
       "margin": 4760,
-      "totalVotes": 231303,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 231303
     },
     {
       "number": 132,
       "constituency": "132 - SAGAR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "SUMANTA MANDAL",
         "party": "Bharatiya Janata Party",
@@ -2774,14 +2776,14 @@
         "votes": 119921
       },
       "margin": 7881,
-      "totalVotes": 258107,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 258107
     },
     {
       "number": 133,
       "constituency": "133 - KULPI",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "BARNALI DHARA",
         "party": "All India Trinamool Congress",
@@ -2795,14 +2797,14 @@
         "votes": 80883
       },
       "margin": 10383,
-      "totalVotes": 207706,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207706
     },
     {
       "number": 134,
       "constituency": "134 - RAIDIGHI",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "TAPAS MONDAL S/O-SHIBPRASAD MONDAL",
         "party": "All India Trinamool Congress",
@@ -2816,14 +2818,14 @@
         "votes": 113034
       },
       "margin": 5957,
-      "totalVotes": 257773,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 257773
     },
     {
       "number": 135,
       "constituency": "135 - MANDIRBAZAR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "JOYDEB HALDER S/O - KARTICK CHANDRA HALDER",
         "party": "All India Trinamool Congress",
@@ -2837,14 +2839,14 @@
         "votes": 91691
       },
       "margin": 1995,
-      "totalVotes": 213229,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213229
     },
     {
       "number": 136,
       "constituency": "136 - JAYNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BISWANATH DAS",
         "party": "All India Trinamool Congress",
@@ -2858,35 +2860,35 @@
         "votes": 81844
       },
       "margin": 26350,
-      "totalVotes": 219107,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219107
     },
     {
       "number": 137,
       "constituency": "137 - BARUIPUR PURBA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BIVAS SARDAR",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 109625
+        "votes": 120987
       },
       "runnerUp": {
         "candidate": "TUMPA SARDAR",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 83820
+        "votes": 89172
       },
-      "margin": 25805,
-      "totalVotes": 218029,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 31815,
+      "totalVotes": 237319
     },
     {
       "number": 138,
       "constituency": "138 - CANNING PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "PARESH RAM DAS",
         "party": "All India Trinamool Congress",
@@ -2900,14 +2902,14 @@
         "votes": 79883
       },
       "margin": 40665,
-      "totalVotes": 230686,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 230686
     },
     {
       "number": 139,
       "constituency": "139 - CANNING PURBA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "MD BAHARUL ISLAM",
         "party": "All India Trinamool Congress",
@@ -2921,14 +2923,14 @@
         "votes": 56733
       },
       "margin": 91954,
-      "totalVotes": 241664,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 241664
     },
     {
       "number": 140,
       "constituency": "140 - BARUIPUR PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BIMAN BANERJEE",
         "party": "All India Trinamool Congress",
@@ -2942,14 +2944,14 @@
         "votes": 86919
       },
       "margin": 17862,
-      "totalVotes": 221031,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221031
     },
     {
       "number": 141,
       "constituency": "141 - MAGRAHAT PURBA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SARMISTHA PURKAIT",
         "party": "All India Trinamool Congress",
@@ -2963,14 +2965,14 @@
         "votes": 76805
       },
       "margin": 31607,
-      "totalVotes": 222178,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 222178
     },
     {
       "number": 142,
       "constituency": "142 - MAGRAHAT PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "MD. SAMIM AHAMED MOLLA",
         "party": "All India Trinamool Congress",
@@ -2984,35 +2986,35 @@
         "votes": 55331
       },
       "margin": 58503,
-      "totalVotes": 205362,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 205362
     },
     {
       "number": 143,
       "constituency": "143 - DIAMOND HARBOUR",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "PANNA LAL HALDER",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 108613
+        "votes": 119320
       },
       "runnerUp": {
         "candidate": "DIPAK KUMAR HALDER",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 74307
+        "votes": 88054
       },
-      "margin": 34306,
-      "totalVotes": 205568,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 31266,
+      "totalVotes": 232238
     },
     {
       "number": 144,
       "constituency": "144 - FALTA",
-      "status": "Counting",
+      "status": "Unknown",
+      "roundsCounted": 0,
+      "roundsTotal": 0,
       "winner": {
         "candidate": "ABDUR RAZZAK MOLLA",
         "party": "Indian National Congress",
@@ -3026,14 +3028,14 @@
         "votes": 0
       },
       "margin": 0,
-      "totalVotes": null,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": null
     },
     {
       "number": 145,
       "constituency": "145 - SATGACHHIA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "AGNISWAR NASKAR",
         "party": "Bharatiya Janata Party",
@@ -3047,14 +3049,14 @@
         "votes": 110622
       },
       "margin": 401,
-      "totalVotes": 239370,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239370
     },
     {
       "number": 146,
       "constituency": "146 - BISHNUPUR",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "DILIP MONDAL",
         "party": "All India Trinamool Congress",
@@ -3068,14 +3070,14 @@
         "votes": 95722
       },
       "margin": 36925,
-      "totalVotes": 250592,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 250592
     },
     {
       "number": 147,
       "constituency": "147 - SONARPUR DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "RUPA GANGULY",
         "party": "Bharatiya Janata Party",
@@ -3089,14 +3091,14 @@
         "votes": 93188
       },
       "margin": 35782,
-      "totalVotes": 246393,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246393
     },
     {
       "number": 148,
       "constituency": "148 - BHANGAR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "MD NAWSAD SIDDIQUE",
         "party": "All India Secular Front",
@@ -3110,14 +3112,14 @@
         "votes": 94467
       },
       "margin": 32088,
-      "totalVotes": 267394,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 267394
     },
     {
       "number": 149,
       "constituency": "149 - KASBA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "AHMED JAVED KHAN",
         "party": "All India Trinamool Congress",
@@ -3131,14 +3133,14 @@
         "votes": 96919
       },
       "margin": 20974,
-      "totalVotes": 241206,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 241206
     },
     {
       "number": 150,
       "constituency": "150 - JADAVPUR",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "SARBORI MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -3152,14 +3154,14 @@
         "votes": 78483
       },
       "margin": 27716,
-      "totalVotes": 231075,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 231075
     },
     {
       "number": 151,
       "constituency": "151 - SONARPUR UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "DEBASISH DHAR",
         "party": "Bharatiya Janata Party",
@@ -3173,14 +3175,14 @@
         "votes": 110017
       },
       "margin": 9807,
-      "totalVotes": 256444,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 256444
     },
     {
       "number": 152,
       "constituency": "152 - TOLLYGANJ",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "PAPIA ADHIKARY",
         "party": "Bharatiya Janata Party",
@@ -3194,14 +3196,14 @@
         "votes": 82394
       },
       "margin": 6013,
-      "totalVotes": 205661,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 205661
     },
     {
       "number": 153,
       "constituency": "153 - BEHALA PURBA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SANKAR SIKDER",
         "party": "Bharatiya Janata Party",
@@ -3215,14 +3217,14 @@
         "votes": 90365
       },
       "margin": 25137,
-      "totalVotes": 234687,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 234687
     },
     {
       "number": 154,
       "constituency": "154 - BEHALA PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "DR. INDRANIL KHAN",
         "party": "Bharatiya Janata Party",
@@ -3236,14 +3238,14 @@
         "votes": 88472
       },
       "margin": 24699,
-      "totalVotes": 238796,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 238796
     },
     {
       "number": 155,
       "constituency": "155 - MAHESHTALA",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "SUBHASIS DAS",
         "party": "All India Trinamool Congress",
@@ -3257,14 +3259,14 @@
         "votes": 83898
       },
       "margin": 32913,
-      "totalVotes": 229791,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 229791
     },
     {
       "number": 156,
       "constituency": "156 - BUDGE BUDGE",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "ASHOK KUMAR DEB",
         "party": "All India Trinamool Congress",
@@ -3278,14 +3280,14 @@
         "votes": 80241
       },
       "margin": 46850,
-      "totalVotes": 218093,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218093
     },
     {
       "number": 157,
       "constituency": "157 - METIABURUZ",
       "status": "Result Declared",
+      "roundsCounted": 11,
+      "roundsTotal": 11,
       "winner": {
         "candidate": "ABDUL KHALEQUE MOLLA",
         "party": "All India Trinamool Congress",
@@ -3299,14 +3301,14 @@
         "votes": 36351
       },
       "margin": 87879,
-      "totalVotes": 180068,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 180068
     },
     {
       "number": 158,
       "constituency": "158 - KOLKATA PORT",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "FIRHAD HAKIM",
         "party": "All India Trinamool Congress",
@@ -3320,14 +3322,14 @@
         "votes": 45146
       },
       "margin": 56080,
-      "totalVotes": 154702,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 154702
     },
     {
       "number": 159,
       "constituency": "159 - BHABANIPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "ADHIKARI SUVENDU",
         "party": "Bharatiya Janata Party",
@@ -3341,14 +3343,14 @@
         "votes": 58812
       },
       "margin": 15105,
-      "totalVotes": 139413,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 139413
     },
     {
       "number": 160,
       "constituency": "160 - RASHBEHARI",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "DASGUPTA SWAPAN",
         "party": "Bharatiya Janata Party",
@@ -3362,14 +3364,14 @@
         "votes": 53258
       },
       "margin": 20865,
-      "totalVotes": 138814,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 138814
     },
     {
       "number": 161,
       "constituency": "161 - BALLYGUNGE",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "SOBHANDEB CHATTOPADHYAY",
         "party": "All India Trinamool Congress",
@@ -3383,14 +3385,14 @@
         "votes": 47005
       },
       "margin": 61476,
-      "totalVotes": 167384,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 167384
     },
     {
       "number": 162,
       "constituency": "162 - CHOWRANGEE",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "BANDYOPADHYAY NAYNA",
         "party": "All India Trinamool Congress",
@@ -3404,14 +3406,14 @@
         "votes": 40936
       },
       "margin": 22002,
-      "totalVotes": 110122,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 110122
     },
     {
       "number": 163,
       "constituency": "163 - ENTALLY",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SANDIPAN SAHA",
         "party": "All India Trinamool Congress",
@@ -3425,14 +3427,14 @@
         "votes": 60421
       },
       "margin": 34006,
-      "totalVotes": 165207,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 165207
     },
     {
       "number": 164,
       "constituency": "164 - BELEGHATA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "KUNAL KUMAR GHOSH",
         "party": "All India Trinamool Congress",
@@ -3446,14 +3448,14 @@
         "votes": 65181
       },
       "margin": 28576,
-      "totalVotes": 174108,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 174108
     },
     {
       "number": 165,
       "constituency": "165 - JORASANKO",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "VIJAY OJHA",
         "party": "Bharatiya Janata Party",
@@ -3467,14 +3469,14 @@
         "votes": 47071
       },
       "margin": 5797,
-      "totalVotes": 106847,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 106847
     },
     {
       "number": 166,
       "constituency": "166 - SHYAMPUKUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "PURNIMA CHAKRABORTY",
         "party": "Bharatiya Janata Party",
@@ -3488,14 +3490,14 @@
         "votes": 45615
       },
       "margin": 14633,
-      "totalVotes": 116768,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 116768
     },
     {
       "number": 167,
       "constituency": "167 - MANIKTALA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "TAPAS ROY",
         "party": "Bharatiya Janata Party",
@@ -3509,14 +3511,14 @@
         "votes": 60726
       },
       "margin": 15644,
-      "totalVotes": 150722,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 150722
     },
     {
       "number": 168,
       "constituency": "168 - KASHIPUR-BELGACHHIA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "RITESH TIWARI",
         "party": "Bharatiya Janata Party",
@@ -3530,35 +3532,35 @@
         "votes": 66717
       },
       "margin": 1651,
-      "totalVotes": 150542,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 150542
     },
     {
       "number": 169,
       "constituency": "169 - BALLY",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "SANJAY KUMAR SINGH",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 54588
+        "votes": 57639
       },
       "runnerUp": {
         "candidate": "KAILASH KUMAR MISHRA",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 39734
+        "votes": 45642
       },
-      "margin": 14854,
-      "totalVotes": 108201,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 11997,
+      "totalVotes": 117838
     },
     {
       "number": 170,
       "constituency": "170 - HOWRAH UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "UMESH RAI",
         "party": "Bharatiya Janata Party",
@@ -3572,14 +3574,14 @@
         "votes": 56289
       },
       "margin": 11250,
-      "totalVotes": 133063,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 133063
     },
     {
       "number": 171,
       "constituency": "171 - HOWRAH MADHYA",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "ARUP ROY",
         "party": "All India Trinamool Congress",
@@ -3593,14 +3595,14 @@
         "votes": 79865
       },
       "margin": 16083,
-      "totalVotes": 193459,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 193459
     },
     {
       "number": 172,
       "constituency": "172 - SHIBPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "RUDRANIL GHOSH",
         "party": "Bharatiya Janata Party",
@@ -3614,14 +3616,14 @@
         "votes": 73557
       },
       "margin": 16058,
-      "totalVotes": 181323,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 181323
     },
     {
       "number": 173,
       "constituency": "173 - HOWRAH DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "NANDITA CHOWDHURY",
         "party": "All India Trinamool Congress",
@@ -3635,14 +3637,14 @@
         "votes": 92712
       },
       "margin": 7828,
-      "totalVotes": 222054,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 222054
     },
     {
       "number": 174,
       "constituency": "174 - SANKRAIL",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "PRIYA PAUL",
         "party": "All India Trinamool Congress",
@@ -3656,14 +3658,14 @@
         "votes": 88672
       },
       "margin": 16740,
-      "totalVotes": 229210,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 229210
     },
     {
       "number": 175,
       "constituency": "175 - PANCHLA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "GULSAN MULLICK",
         "party": "All India Trinamool Congress",
@@ -3677,14 +3679,14 @@
         "votes": 85647
       },
       "margin": 38320,
-      "totalVotes": 235163,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 235163
     },
     {
       "number": 176,
       "constituency": "176 - ULUBERIA PURBA",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "RITABRATA BANERJEE",
         "party": "All India Trinamool Congress",
@@ -3698,14 +3700,14 @@
         "votes": 83795
       },
       "margin": 11838,
-      "totalVotes": 208025,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 208025
     },
     {
       "number": 177,
       "constituency": "177 - ULUBERIA UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "CHIRAN BERA",
         "party": "Bharatiya Janata Party",
@@ -3719,14 +3721,14 @@
         "votes": 89143
       },
       "margin": 4177,
-      "totalVotes": 203466,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 203466
     },
     {
       "number": 178,
       "constituency": "178 - ULUBERIA DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "PULAK ROY",
         "party": "All India Trinamool Congress",
@@ -3740,14 +3742,14 @@
         "votes": 92462
       },
       "margin": 17187,
-      "totalVotes": 226271,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 226271
     },
     {
       "number": 179,
       "constituency": "179 - SHYAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "DR. HIRANMOY CHATTOPADHYAYA (HIRAAN)",
         "party": "Bharatiya Janata Party",
@@ -3761,35 +3763,35 @@
         "votes": 103391
       },
       "margin": 22260,
-      "totalVotes": 244669,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 244669
     },
     {
       "number": 180,
       "constituency": "180 - BAGNAN",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "ARUNAVA SEN",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 104617
+        "votes": 105060
       },
       "runnerUp": {
         "candidate": "PRAMANSHU RANA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 93143
+        "votes": 93744
       },
-      "margin": 11474,
-      "totalVotes": 217322,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 11316,
+      "totalVotes": 218406
     },
     {
       "number": 181,
       "constituency": "181 - AMTA",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "AMIT SAMANTA",
         "party": "Bharatiya Janata Party",
@@ -3803,14 +3805,14 @@
         "votes": 100195
       },
       "margin": 4454,
-      "totalVotes": 237001,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237001
     },
     {
       "number": 182,
       "constituency": "182 - UDAYNARAYANPUR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "SAMIR KUMAR PANJA",
         "party": "All India Trinamool Congress",
@@ -3824,14 +3826,14 @@
         "votes": 93575
       },
       "margin": 12227,
-      "totalVotes": 213603,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213603
     },
     {
       "number": 183,
       "constituency": "183 - JAGATBALLAVPUR",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "ANUPAM GHOSH",
         "party": "Bharatiya Janata Party",
@@ -3845,14 +3847,14 @@
         "votes": 108937
       },
       "margin": 6671,
-      "totalVotes": 252515,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 252515
     },
     {
       "number": 184,
       "constituency": "184 - DOMJUR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "TAPAS MAITY",
         "party": "All India Trinamool Congress",
@@ -3866,14 +3868,14 @@
         "votes": 91859
       },
       "margin": 42177,
-      "totalVotes": 254187,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 254187
     },
     {
       "number": 185,
       "constituency": "185 - UTTARPARA",
       "status": "Result Declared",
+      "roundsCounted": 28,
+      "roundsTotal": 28,
       "winner": {
         "candidate": "DIPANJAN CHAKRABORTY",
         "party": "Bharatiya Janata Party",
@@ -3887,14 +3889,14 @@
         "votes": 70197
       },
       "margin": 10415,
-      "totalVotes": 205454,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 205454
     },
     {
       "number": 186,
       "constituency": "186 - SREERAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "BHASKAR BHATTACHARYA",
         "party": "Bharatiya Janata Party",
@@ -3908,14 +3910,14 @@
         "votes": 76959
       },
       "margin": 8685,
-      "totalVotes": 186297,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 186297
     },
     {
       "number": 187,
       "constituency": "187 - CHAMPDANI",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "DILIP SINGH",
         "party": "Bharatiya Janata Party",
@@ -3929,14 +3931,14 @@
         "votes": 90678
       },
       "margin": 3026,
-      "totalVotes": 204415,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204415
     },
     {
       "number": 188,
       "constituency": "188 - SINGUR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "ARUP KUMAR DAS",
         "party": "Bharatiya Janata Party",
@@ -3950,14 +3952,14 @@
         "votes": 91570
       },
       "margin": 21438,
-      "totalVotes": 222573,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 222573
     },
     {
       "number": 189,
       "constituency": "189 - CHANDANNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "Deepanjan Kumar Guha",
         "party": "Bharatiya Janata Party",
@@ -3971,14 +3973,14 @@
         "votes": 72832
       },
       "margin": 13441,
-      "totalVotes": 186909,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 186909
     },
     {
       "number": 190,
       "constituency": "190 - CHUNCHURA",
       "status": "Result Declared",
+      "roundsCounted": 28,
+      "roundsTotal": 28,
       "winner": {
         "candidate": "SUBIR NAG",
         "party": "Bharatiya Janata Party",
@@ -3992,14 +3994,14 @@
         "votes": 94269
       },
       "margin": 43435,
-      "totalVotes": 255204,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 255204
     },
     {
       "number": 191,
       "constituency": "191 - BALAGARH",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "SUMANA SARKAR",
         "party": "Bharatiya Janata Party",
@@ -4013,14 +4015,14 @@
         "votes": 83710
       },
       "margin": 41914,
-      "totalVotes": 226031,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 226031
     },
     {
       "number": 192,
       "constituency": "192 - PANDUA",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "TUSAR KUMAR MAJUMDAR",
         "party": "Bharatiya Janata Party",
@@ -4034,14 +4036,14 @@
         "votes": 96121
       },
       "margin": 5228,
-      "totalVotes": 233718,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233718
     },
     {
       "number": 193,
       "constituency": "193 - SAPTAGRAM",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "SWARAJ GHOSH",
         "party": "Bharatiya Janata Party",
@@ -4055,14 +4057,14 @@
         "votes": 79125
       },
       "margin": 23289,
-      "totalVotes": 196584,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 196584
     },
     {
       "number": 194,
       "constituency": "194 - CHANDITALA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "SWATI KHANDOKER",
         "party": "All India Trinamool Congress",
@@ -4076,14 +4078,14 @@
         "votes": 87480
       },
       "margin": 19663,
-      "totalVotes": 227472,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227472
     },
     {
       "number": 195,
       "constituency": "195 - JANGIPARA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "PROSENJIT BAG",
         "party": "Bharatiya Janata Party",
@@ -4097,14 +4099,14 @@
         "votes": 101547
       },
       "margin": 862,
-      "totalVotes": 232291,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232291
     },
     {
       "number": 196,
       "constituency": "196 - HARIPAL",
       "status": "Result Declared",
+      "roundsCounted": 27,
+      "roundsTotal": 27,
       "winner": {
         "candidate": "MADHUMITA GHOSH",
         "party": "Bharatiya Janata Party",
@@ -4118,14 +4120,14 @@
         "votes": 109844
       },
       "margin": 3488,
-      "totalVotes": 245994,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 245994
     },
     {
       "number": 197,
       "constituency": "197 - DHANEKHALI",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "ASIMA PATRA",
         "party": "All India Trinamool Congress",
@@ -4139,14 +4141,14 @@
         "votes": 110405
       },
       "margin": 13057,
-      "totalVotes": 247691,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 247691
     },
     {
       "number": 198,
       "constituency": "198 - TARAKESWAR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SANTU PAN",
         "party": "Bharatiya Janata Party",
@@ -4160,14 +4162,14 @@
         "votes": 85902
       },
       "margin": 30999,
-      "totalVotes": 221578,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221578
     },
     {
       "number": 199,
       "constituency": "199 - PURSURAH",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "BIMAN GHOSH",
         "party": "Bharatiya Janata Party",
@@ -4181,14 +4183,14 @@
         "votes": 85368
       },
       "margin": 53453,
-      "totalVotes": 240924,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 240924
     },
     {
       "number": 200,
       "constituency": "200 - ARAMBAG",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "BAG HEMANTA",
         "party": "Bharatiya Janata Party",
@@ -4202,14 +4204,14 @@
         "votes": 94041
       },
       "margin": 28959,
-      "totalVotes": 235875,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 235875
     },
     {
       "number": 201,
       "constituency": "201 - GOGHAT",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "PRASANTA DIGAR",
         "party": "Bharatiya Janata Party",
@@ -4223,14 +4225,14 @@
         "votes": 84916
       },
       "margin": 49582,
-      "totalVotes": 234321,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 234321
     },
     {
       "number": 202,
       "constituency": "202 - KHANAKUL",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "SUSANTA GHOSH",
         "party": "Bharatiya Janata Party",
@@ -4244,14 +4246,14 @@
         "votes": 92246
       },
       "margin": 34483,
-      "totalVotes": 237135,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 237135
     },
     {
       "number": 203,
       "constituency": "203 - TAMLUK",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "HARE KRISHNA BERA",
         "party": "Bharatiya Janata Party",
@@ -4265,14 +4267,14 @@
         "votes": 101837
       },
       "margin": 34729,
-      "totalVotes": 256930,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 256930
     },
     {
       "number": 204,
       "constituency": "204 - PANSKURA PURBA",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "SUBRATA MAITY(RANA)",
         "party": "Bharatiya Janata Party",
@@ -4286,14 +4288,14 @@
         "votes": 91361
       },
       "margin": 17903,
-      "totalVotes": 220737,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220737
     },
     {
       "number": 205,
       "constituency": "205 - PANSKURA PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SINTU SENAPATI",
         "party": "Bharatiya Janata Party",
@@ -4307,14 +4309,14 @@
         "votes": 105352
       },
       "margin": 32567,
-      "totalVotes": 258432,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 258432
     },
     {
       "number": 206,
       "constituency": "206 - MOYNA",
       "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
       "winner": {
         "candidate": "ASHOKE DINDA",
         "party": "Bharatiya Janata Party",
@@ -4328,14 +4330,14 @@
         "votes": 110925
       },
       "margin": 16241,
-      "totalVotes": 246333,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246333
     },
     {
       "number": 207,
       "constituency": "207 - NANDAKUMAR",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "KHANRA NIRMAL",
         "party": "Bharatiya Janata Party",
@@ -4349,14 +4351,14 @@
         "votes": 100873
       },
       "margin": 30603,
-      "totalVotes": 249316,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 249316
     },
     {
       "number": 208,
       "constituency": "208 - MAHISADAL",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "SUBHAS CHANDRA PANJA",
         "party": "Bharatiya Janata Party",
@@ -4370,14 +4372,14 @@
         "votes": 95346
       },
       "margin": 26238,
-      "totalVotes": 238188,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 238188
     },
     {
       "number": 209,
       "constituency": "209 - HALDIA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "PRADIP KUMAR BIJALI",
         "party": "Bharatiya Janata Party",
@@ -4391,14 +4393,14 @@
         "votes": 83121
       },
       "margin": 49062,
-      "totalVotes": 239446,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239446
     },
     {
       "number": 210,
       "constituency": "210 - NANDIGRAM",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "ADHIKARI SUVENDU",
         "party": "Bharatiya Janata Party",
@@ -4412,14 +4414,14 @@
         "votes": 117636
       },
       "margin": 9665,
-      "totalVotes": 252722,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 252722
     },
     {
       "number": 211,
       "constituency": "211 - CHANDIPUR",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "PIJUSH KANTI DAS",
         "party": "Bharatiya Janata Party",
@@ -4433,14 +4435,14 @@
         "votes": 105777
       },
       "margin": 20270,
-      "totalVotes": 241957,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 241957
     },
     {
       "number": 212,
       "constituency": "212 - PATASHPUR",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "TAPAN MAITY",
         "party": "Bharatiya Janata Party",
@@ -4454,35 +4456,35 @@
         "votes": 107538
       },
       "margin": 9051,
-      "totalVotes": 232048,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232048
     },
     {
       "number": 213,
       "constituency": "213 - KANTHI UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "SUMITA SINHA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 129688
+        "votes": 130088
       },
       "runnerUp": {
         "candidate": "DEBASIS BHUNYA",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 109869
+        "votes": 110033
       },
-      "margin": 19819,
-      "totalVotes": 248842,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 20055,
+      "totalVotes": 249421
     },
     {
       "number": 214,
       "constituency": "214 - BHAGABANPUR",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "SANTANU PRAMANIK",
         "party": "Bharatiya Janata Party",
@@ -4496,14 +4498,14 @@
         "votes": 109708
       },
       "margin": 20878,
-      "totalVotes": 247653,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 247653
     },
     {
       "number": 215,
       "constituency": "215 - KHEJURI",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "SUBRATA PAIK",
         "party": "Bharatiya Janata Party",
@@ -4517,14 +4519,14 @@
         "votes": 97185
       },
       "margin": 32690,
-      "totalVotes": 236328,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 236328
     },
     {
       "number": 216,
       "constituency": "216 - KANTHI DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "ARUP KUMAR DAS",
         "party": "Bharatiya Janata Party",
@@ -4538,14 +4540,14 @@
         "votes": 86747
       },
       "margin": 31472,
-      "totalVotes": 212835,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 212835
     },
     {
       "number": 217,
       "constituency": "217 - RAMNAGAR",
       "status": "Result Declared",
+      "roundsCounted": 26,
+      "roundsTotal": 26,
       "winner": {
         "candidate": "DR. CHANDRA SEKHAR MONDAL",
         "party": "Bharatiya Janata Party",
@@ -4559,14 +4561,14 @@
         "votes": 104869
       },
       "margin": 26939,
-      "totalVotes": 244842,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 244842
     },
     {
       "number": 218,
       "constituency": "218 - EGRA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "ADHIKARI DIBYENDU",
         "party": "Bharatiya Janata Party",
@@ -4580,14 +4582,14 @@
         "votes": 116978
       },
       "margin": 25692,
-      "totalVotes": 269373,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 269373
     },
     {
       "number": 219,
       "constituency": "219 - DANTAN",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "AJIT KUMAR JANA",
         "party": "Bharatiya Janata Party",
@@ -4601,14 +4603,14 @@
         "votes": 99883
       },
       "margin": 10376,
-      "totalVotes": 218374,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218374
     },
     {
       "number": 220,
       "constituency": "220 - NAYAGRAM",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "AMIYA KISKU",
         "party": "Bharatiya Janata Party",
@@ -4622,14 +4624,14 @@
         "votes": 94433
       },
       "margin": 6424,
-      "totalVotes": 207713,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207713
     },
     {
       "number": 221,
       "constituency": "221 - GOPIBALLAVPUR",
       "status": "Result Declared",
+      "roundsCounted": 25,
+      "roundsTotal": 25,
       "winner": {
         "candidate": "RAJESH MAHATA",
         "party": "Bharatiya Janata Party",
@@ -4643,14 +4645,14 @@
         "votes": 88008
       },
       "margin": 26675,
-      "totalVotes": 213383,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213383
     },
     {
       "number": 222,
       "constituency": "222 - JHARGRAM",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "LAKSHMI KANTA SAU",
         "party": "Bharatiya Janata Party",
@@ -4664,14 +4666,14 @@
         "votes": 82730
       },
       "margin": 38147,
-      "totalVotes": 220940,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220940
     },
     {
       "number": 223,
       "constituency": "223 - KESHIARY",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "BHADRA HEMRAM",
         "party": "Bharatiya Janata Party",
@@ -4685,14 +4687,14 @@
         "votes": 97826
       },
       "margin": 15887,
-      "totalVotes": 223842,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 223842
     },
     {
       "number": 224,
       "constituency": "224 - KHARAGPUR SADAR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "DILIP GHOSH",
         "party": "Bharatiya Janata Party",
@@ -4706,14 +4708,14 @@
         "votes": 59379
       },
       "margin": 30506,
-      "totalVotes": 161661,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 161661
     },
     {
       "number": 225,
       "constituency": "225 - NARAYANGARH",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "GIRI RAMAPRASAD",
         "party": "Bharatiya Janata Party",
@@ -4727,14 +4729,14 @@
         "votes": 95683
       },
       "margin": 20367,
-      "totalVotes": 225543,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 225543
     },
     {
       "number": 226,
       "constituency": "226 - SABANG",
       "status": "Result Declared",
+      "roundsCounted": 27,
+      "roundsTotal": 27,
       "winner": {
         "candidate": "AMAL KUMAR PANDA",
         "party": "Bharatiya Janata Party",
@@ -4748,14 +4750,14 @@
         "votes": 116647
       },
       "margin": 11136,
-      "totalVotes": 257340,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 257340
     },
     {
       "number": 227,
       "constituency": "227 - PINGLA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "SWAGATA MANNA",
         "party": "Bharatiya Janata Party",
@@ -4769,14 +4771,14 @@
         "votes": 105709
       },
       "margin": 18480,
-      "totalVotes": 242754,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 242754
     },
     {
       "number": 228,
       "constituency": "228 - KHARAGPUR",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "DINEN ROY",
         "party": "All India Trinamool Congress",
@@ -4790,14 +4792,14 @@
         "votes": 95448
       },
       "margin": 2872,
-      "totalVotes": 208560,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 208560
     },
     {
       "number": 229,
       "constituency": "229 - DEBRA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SUBHASHIS OM",
         "party": "Bharatiya Janata Party",
@@ -4811,14 +4813,14 @@
         "votes": 85662
       },
       "margin": 28801,
-      "totalVotes": 217323,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 217323
     },
     {
       "number": 230,
       "constituency": "230 - DASPUR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "TAPAN KUMAR DUTTA",
         "party": "Bharatiya Janata Party",
@@ -4832,14 +4834,14 @@
         "votes": 100937
       },
       "margin": 32134,
-      "totalVotes": 252047,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 252047
     },
     {
       "number": 231,
       "constituency": "231 - GHATAL",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "SITAL KAPAT",
         "party": "Bharatiya Janata Party",
@@ -4853,14 +4855,14 @@
         "votes": 93893
       },
       "margin": 37657,
-      "totalVotes": 242025,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 242025
     },
     {
       "number": 232,
       "constituency": "232 - CHANDRAKONA",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "SUKANTA DOLUI",
         "party": "Bharatiya Janata Party",
@@ -4874,14 +4876,14 @@
         "votes": 107036
       },
       "margin": 33481,
-      "totalVotes": 264690,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 264690
     },
     {
       "number": 233,
       "constituency": "233 - GARBETA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "PRADIP LODHA",
         "party": "Bharatiya Janata Party",
@@ -4895,14 +4897,14 @@
         "votes": 87527
       },
       "margin": 26225,
-      "totalVotes": 222049,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 222049
     },
     {
       "number": 234,
       "constituency": "234 - SALBONI",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "BIMAN MAHATA",
         "party": "Bharatiya Janata Party",
@@ -4916,14 +4918,14 @@
         "votes": 117613
       },
       "margin": 15243,
-      "totalVotes": 266475,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 266475
     },
     {
       "number": 235,
       "constituency": "235 - KESHPUR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SEULI SAHA",
         "party": "All India Trinamool Congress",
@@ -4937,14 +4939,14 @@
         "votes": 93018
       },
       "margin": 50105,
-      "totalVotes": 253963,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 253963
     },
     {
       "number": 236,
       "constituency": "236 - MEDINIPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SANKAR KUMAR GUCHHAIT",
         "party": "Bharatiya Janata Party",
@@ -4958,14 +4960,14 @@
         "votes": 94294
       },
       "margin": 38747,
-      "totalVotes": 244086,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 244086
     },
     {
       "number": 237,
       "constituency": "237 - BINPUR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "DR. PRANAT TUDU",
         "party": "Bharatiya Janata Party",
@@ -4979,14 +4981,14 @@
         "votes": 84261
       },
       "margin": 22977,
-      "totalVotes": 208079,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 208079
     },
     {
       "number": 238,
       "constituency": "238 - BANDWAN",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "LABSEN BASKEY",
         "party": "Bharatiya Janata Party",
@@ -5000,14 +5002,14 @@
         "votes": 104503
       },
       "margin": 29577,
-      "totalVotes": 266178,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 266178
     },
     {
       "number": 239,
       "constituency": "239 - BALARAMPUR",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "JALADHAR MAHATO",
         "party": "Bharatiya Janata Party",
@@ -5021,14 +5023,14 @@
         "votes": 83370
       },
       "margin": 35051,
-      "totalVotes": 219946,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219946
     },
     {
       "number": 240,
       "constituency": "240 - BAGHMUNDI",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "RAHIDAS MAHATO",
         "party": "Bharatiya Janata Party",
@@ -5042,14 +5044,14 @@
         "votes": 71846
       },
       "margin": 40817,
-      "totalVotes": 230137,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 230137
     },
     {
       "number": 241,
       "constituency": "241 - JOYPUR",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "BISWAJIT MAHATO",
         "party": "Bharatiya Janata Party",
@@ -5063,14 +5065,14 @@
         "votes": 82450
       },
       "margin": 22218,
-      "totalVotes": 233203,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233203
     },
     {
       "number": 242,
       "constituency": "242 - PURULIA",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "SUDIP KUMAR MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -5084,14 +5086,14 @@
         "votes": 79201
       },
       "margin": 49253,
-      "totalVotes": 230653,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 230653
     },
     {
       "number": 243,
       "constituency": "243 - MANBAZAR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "MAYNA MURMU",
         "party": "Bharatiya Janata Party",
@@ -5105,14 +5107,14 @@
         "votes": 93204
       },
       "margin": 27283,
-      "totalVotes": 236467,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 236467
     },
     {
       "number": 244,
       "constituency": "244 - KASHIPUR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "KAMALA KANTA HANSDA",
         "party": "Bharatiya Janata Party",
@@ -5126,14 +5128,14 @@
         "votes": 85295
       },
       "margin": 21276,
-      "totalVotes": 211974,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 211974
     },
     {
       "number": 245,
       "constituency": "245 - PARA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "NADIAR CHAND BOURI",
         "party": "Bharatiya Janata Party",
@@ -5147,14 +5149,14 @@
         "votes": 79767
       },
       "margin": 33721,
-      "totalVotes": 215946,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 215946
     },
     {
       "number": 246,
       "constituency": "246 - RAGHUNATHPUR",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "MAMONI BAURI",
         "party": "Bharatiya Janata Party",
@@ -5168,14 +5170,14 @@
         "votes": 83569
       },
       "margin": 44059,
-      "totalVotes": 234431,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 234431
     },
     {
       "number": 247,
       "constituency": "247 - SALTORA",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "CHANDANA BAURI",
         "party": "Bharatiya Janata Party",
@@ -5189,14 +5191,14 @@
         "votes": 83045
       },
       "margin": 32135,
-      "totalVotes": 218491,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 218491
     },
     {
       "number": 248,
       "constituency": "248 - CHHATNA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "SATYANARAYAN MUKHOPADHYAY",
         "party": "Bharatiya Janata Party",
@@ -5210,14 +5212,14 @@
         "votes": 78798
       },
       "margin": 47174,
-      "totalVotes": 221957,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221957
     },
     {
       "number": 249,
       "constituency": "249 - RANIBANDH",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "KSHUDIRAM TUDU",
         "party": "Bharatiya Janata Party",
@@ -5231,14 +5233,14 @@
         "votes": 78876
       },
       "margin": 52269,
-      "totalVotes": 236828,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 236828
     },
     {
       "number": 250,
       "constituency": "250 - RAIPUR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "KSHETRAMOHAN HANSDA",
         "party": "Bharatiya Janata Party",
@@ -5252,14 +5254,14 @@
         "votes": 82701
       },
       "margin": 28742,
-      "totalVotes": 210215,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 210215
     },
     {
       "number": 251,
       "constituency": "251 - TALDANGRA",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SOUVIK PATRA",
         "party": "Bharatiya Janata Party",
@@ -5273,14 +5275,14 @@
         "votes": 74464
       },
       "margin": 50073,
-      "totalVotes": 219936,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219936
     },
     {
       "number": 252,
       "constituency": "252 - BANKURA",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "NILADRI SEKHAR DANA",
         "party": "Bharatiya Janata Party",
@@ -5294,14 +5296,14 @@
         "votes": 82815
       },
       "margin": 54177,
-      "totalVotes": 239331,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239331
     },
     {
       "number": 253,
       "constituency": "253 - BARJORA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "BILLESWAR SINHA",
         "party": "Bharatiya Janata Party",
@@ -5315,14 +5317,14 @@
         "votes": 84109
       },
       "margin": 41310,
-      "totalVotes": 235362,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 235362
     },
     {
       "number": 254,
       "constituency": "254 - ONDA",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "AMARNATH SHAKHA",
         "party": "Bharatiya Janata Party",
@@ -5336,14 +5338,14 @@
         "votes": 96573
       },
       "margin": 31723,
-      "totalVotes": 246292,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246292
     },
     {
       "number": 255,
       "constituency": "255 - BISHNUPUR",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "SHUKLA CHATTERJEE",
         "party": "Bharatiya Janata Party",
@@ -5357,14 +5359,14 @@
         "votes": 80477
       },
       "margin": 30605,
-      "totalVotes": 207478,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 207478
     },
     {
       "number": 256,
       "constituency": "256 - KATULPUR",
       "status": "Result Declared",
+      "roundsCounted": 25,
+      "roundsTotal": 25,
       "winner": {
         "candidate": "LAKSHMI KANTA MAJUMDAR",
         "party": "Bharatiya Janata Party",
@@ -5378,14 +5380,14 @@
         "votes": 91874
       },
       "margin": 34367,
-      "totalVotes": 240253,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 240253
     },
     {
       "number": 257,
       "constituency": "257 - INDUS",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "NIRMAL KUMAR DHARA",
         "party": "Bharatiya Janata Party",
@@ -5399,14 +5401,14 @@
         "votes": 107833
       },
       "margin": 900,
-      "totalVotes": 232394,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232394
     },
     {
       "number": 258,
       "constituency": "258 - SONAMUKHI",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "DIBAKAR GHARAMI",
         "party": "Bharatiya Janata Party",
@@ -5420,14 +5422,14 @@
         "votes": 86139
       },
       "margin": 29410,
-      "totalVotes": 221852,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 221852
     },
     {
       "number": 259,
       "constituency": "259 - KHANDAGHOSH",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "NABIN CHANDRA BAG",
         "party": "All India Trinamool Congress",
@@ -5441,14 +5443,14 @@
         "votes": 95899
       },
       "margin": 8284,
-      "totalVotes": 223246,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 223246
     },
     {
       "number": 260,
       "constituency": "260 - BARDHAMAN DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "MOUMITA BISWAS MISRA",
         "party": "Bharatiya Janata Party",
@@ -5462,14 +5464,14 @@
         "votes": 77284
       },
       "margin": 30470,
-      "totalVotes": 204823,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204823
     },
     {
       "number": 261,
       "constituency": "261 - RAINA",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "SUBHASH PATRA",
         "party": "Bharatiya Janata Party",
@@ -5483,14 +5485,14 @@
         "votes": 102653
       },
       "margin": 834,
-      "totalVotes": 233245,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233245
     },
     {
       "number": 262,
       "constituency": "262 - JAMALPUR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "ARUN HALDER",
         "party": "Bharatiya Janata Party",
@@ -5504,14 +5506,14 @@
         "votes": 88758
       },
       "margin": 11178,
-      "totalVotes": 214774,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 214774
     },
     {
       "number": 263,
       "constituency": "263 - MONTESWAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SAIKAT PANJA",
         "party": "Bharatiya Janata Party",
@@ -5525,14 +5527,14 @@
         "votes": 81761
       },
       "margin": 14798,
-      "totalVotes": 204165,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 204165
     },
     {
       "number": 264,
       "constituency": "264 - KALNA",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "SIDDHARTHA MAJUMDAR",
         "party": "Bharatiya Janata Party",
@@ -5546,14 +5548,14 @@
         "votes": 82160
       },
       "margin": 28630,
-      "totalVotes": 213233,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213233
     },
     {
       "number": 265,
       "constituency": "265 - MEMARI",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "MANAB GUHA",
         "party": "Bharatiya Janata Party",
@@ -5567,35 +5569,35 @@
         "votes": 99322
       },
       "margin": 7106,
-      "totalVotes": 227492,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 227492
     },
     {
       "number": 266,
       "constituency": "266 - BARDHAMAN UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "NISITH KUMAR MALIK",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 112415
+        "votes": 112688
       },
       "runnerUp": {
         "candidate": "SANJOY DAS",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 105795
+        "votes": 106228
       },
-      "margin": 6620,
-      "totalVotes": 247130,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 6460,
+      "totalVotes": 247932
     },
     {
       "number": 267,
       "constituency": "267 - BHATAR",
       "status": "Result Declared",
+      "roundsCounted": 14,
+      "roundsTotal": 14,
       "winner": {
         "candidate": "KARFA SOUMEN",
         "party": "Bharatiya Janata Party",
@@ -5609,14 +5611,14 @@
         "votes": 92292
       },
       "margin": 6528,
-      "totalVotes": 214694,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 214694
     },
     {
       "number": 268,
       "constituency": "268 - PURBASTHALI DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "PRAN KRISHNA TAPADAR",
         "party": "Bharatiya Janata Party",
@@ -5630,14 +5632,14 @@
         "votes": 94342
       },
       "margin": 16662,
-      "totalVotes": 220056,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220056
     },
     {
       "number": 269,
       "constituency": "269 - PURBASTHALI UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "GOPAL CHATTOPADHYAY",
         "party": "Bharatiya Janata Party",
@@ -5651,14 +5653,14 @@
         "votes": 81153
       },
       "margin": 30226,
-      "totalVotes": 224880,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 224880
     },
     {
       "number": 270,
       "constituency": "270 - KATWA",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "KRISHNA GHOSH",
         "party": "Bharatiya Janata Party",
@@ -5672,14 +5674,14 @@
         "votes": 86954
       },
       "margin": 35066,
-      "totalVotes": 239536,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 239536
     },
     {
       "number": 271,
       "constituency": "271 - KETUGRAM",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "ANADI GHOSH",
         "party": "Bharatiya Janata Party",
@@ -5693,14 +5695,14 @@
         "votes": 83494
       },
       "margin": 27610,
-      "totalVotes": 219183,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219183
     },
     {
       "number": 272,
       "constituency": "272 - MANGALKOT",
       "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
       "winner": {
         "candidate": "SHISHIR GHOSH",
         "party": "Bharatiya Janata Party",
@@ -5714,14 +5716,14 @@
         "votes": 91297
       },
       "margin": 12723,
-      "totalVotes": 219247,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 219247
     },
     {
       "number": 273,
       "constituency": "273 - AUSGRAM",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "KALITA MAJI",
         "party": "Bharatiya Janata Party",
@@ -5735,14 +5737,14 @@
         "votes": 95157
       },
       "margin": 12535,
-      "totalVotes": 225886,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 225886
     },
     {
       "number": 274,
       "constituency": "274 - GALSI",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "RAJU PATRA",
         "party": "Bharatiya Janata Party",
@@ -5756,14 +5758,14 @@
         "votes": 100146
       },
       "margin": 10494,
-      "totalVotes": 232345,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 232345
     },
     {
       "number": 275,
       "constituency": "275 - PANDABESWAR",
       "status": "Result Declared",
+      "roundsCounted": 13,
+      "roundsTotal": 13,
       "winner": {
         "candidate": "JITENDRA KUMAR TEWARI",
         "party": "Bharatiya Janata Party",
@@ -5777,14 +5779,14 @@
         "votes": 79103
       },
       "margin": 1398,
-      "totalVotes": 174712,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 174712
     },
     {
       "number": 276,
       "constituency": "276 - DURGAPUR PURBA",
       "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
       "winner": {
         "candidate": "CHANDRA SEKHAR BANERJEE",
         "party": "Bharatiya Janata Party",
@@ -5798,14 +5800,14 @@
         "votes": 77954
       },
       "margin": 30934,
-      "totalVotes": 214802,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 214802
     },
     {
       "number": 277,
       "constituency": "277 - DURGAPUR PASCHIM",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "LAKSHMAN CHANDRA GHORUI",
         "party": "Bharatiya Janata Party",
@@ -5819,14 +5821,14 @@
         "votes": 77131
       },
       "margin": 37598,
-      "totalVotes": 216774,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 216774
     },
     {
       "number": 278,
       "constituency": "278 - RANIGANJ",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "PARTHA GHOSH",
         "party": "Bharatiya Janata Party",
@@ -5840,14 +5842,14 @@
         "votes": 79630
       },
       "margin": 17786,
-      "totalVotes": 196484,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 196484
     },
     {
       "number": 279,
       "constituency": "279 - JAMURIA",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "DR. BIJAN MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -5861,14 +5863,14 @@
         "votes": 67636
       },
       "margin": 22514,
-      "totalVotes": 181594,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 181594
     },
     {
       "number": 280,
       "constituency": "280 - ASANSOL DAKSHIN",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "AGNIMITRA PAUL",
         "party": "Bharatiya Janata Party",
@@ -5882,14 +5884,14 @@
         "votes": 78743
       },
       "margin": 40839,
-      "totalVotes": 215792,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 215792
     },
     {
       "number": 281,
       "constituency": "281 - ASANSOL UTTAR",
       "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
       "winner": {
         "candidate": "KRISHNENDU MUKHERJEE",
         "party": "Bharatiya Janata Party",
@@ -5903,14 +5905,14 @@
         "votes": 92901
       },
       "margin": 11615,
-      "totalVotes": 210607,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 210607
     },
     {
       "number": 282,
       "constituency": "282 - KULTI",
       "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
       "winner": {
         "candidate": "AJAY KUMAR PODDAR",
         "party": "Bharatiya Janata Party",
@@ -5924,14 +5926,14 @@
         "votes": 77072
       },
       "margin": 26498,
-      "totalVotes": 190239,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 190239
     },
     {
       "number": 283,
       "constituency": "283 - BARABANI",
       "status": "Result Declared",
+      "roundsCounted": 12,
+      "roundsTotal": 12,
       "winner": {
         "candidate": "ARIJIT ROY",
         "party": "Bharatiya Janata Party",
@@ -5945,14 +5947,14 @@
         "votes": 80055
       },
       "margin": 11722,
-      "totalVotes": 185274,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 185274
     },
     {
       "number": 284,
       "constituency": "284 - DUBRAJPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "ANUP KUMAR SAHA",
         "party": "Bharatiya Janata Party",
@@ -5966,14 +5968,14 @@
         "votes": 89790
       },
       "margin": 27647,
-      "totalVotes": 220193,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 220193
     },
     {
       "number": 285,
       "constituency": "285 - SURI",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "JAGANNATH CHATTOPADHYAY",
         "party": "Bharatiya Janata Party",
@@ -5987,14 +5989,14 @@
         "votes": 95557
       },
       "margin": 28686,
-      "totalVotes": 238504,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 238504
     },
     {
       "number": 286,
       "constituency": "286 - BOLPUR",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "CHANDRANATH SINHA",
         "party": "All India Trinamool Congress",
@@ -6008,14 +6010,14 @@
         "votes": 101727
       },
       "margin": 13188,
-      "totalVotes": 246339,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 246339
     },
     {
       "number": 287,
       "constituency": "287 - NANOOR",
       "status": "Result Declared",
+      "roundsCounted": 24,
+      "roundsTotal": 24,
       "winner": {
         "candidate": "BIDHAN CHANDRA MAJHI",
         "party": "All India Trinamool Congress",
@@ -6029,14 +6031,14 @@
         "votes": 111788
       },
       "margin": 8122,
-      "totalVotes": 253119,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 253119
     },
     {
       "number": 288,
       "constituency": "288 - LABPUR",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "DEBASIS OJHA (HAKU DA)",
         "party": "Bharatiya Janata Party",
@@ -6050,14 +6052,14 @@
         "votes": 102852
       },
       "margin": 3550,
-      "totalVotes": 223002,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 223002
     },
     {
       "number": 289,
       "constituency": "289 - SAINTHIA",
       "status": "Result Declared",
+      "roundsCounted": 25,
+      "roundsTotal": 25,
       "winner": {
         "candidate": "KRISHNA KANTA SAHA",
         "party": "Bharatiya Janata Party",
@@ -6071,14 +6073,14 @@
         "votes": 104748
       },
       "margin": 10306,
-      "totalVotes": 241175,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 241175
     },
     {
       "number": 290,
       "constituency": "290 - MAYURESWAR",
       "status": "Result Declared",
+      "roundsCounted": 20,
+      "roundsTotal": 20,
       "winner": {
         "candidate": "DUDH KUMAR MONDAL",
         "party": "Bharatiya Janata Party",
@@ -6092,14 +6094,14 @@
         "votes": 86054
       },
       "margin": 21002,
-      "totalVotes": 213473,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 213473
     },
     {
       "number": 291,
       "constituency": "291 - RAMPURHAT",
       "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
       "winner": {
         "candidate": "DHRUBA SAHA",
         "party": "Bharatiya Janata Party",
@@ -6113,35 +6115,35 @@
         "votes": 87687
       },
       "margin": 24233,
-      "totalVotes": 233723,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 233723
     },
     {
       "number": 292,
       "constituency": "292 - HANSAN",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "FAYEZUL HAQUE (KAJAL SK)",
         "party": "All India Trinamool Congress",
         "partyShort": "AITC",
-        "votes": 94752
+        "votes": 103223
       },
       "runnerUp": {
         "candidate": "NIKHIL BANERJEE",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 68933
+        "votes": 74925
       },
-      "margin": 25819,
-      "totalVotes": 208672,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "margin": 28298,
+      "totalVotes": 226555
     },
     {
       "number": 293,
       "constituency": "293 - NALHATI",
       "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
       "winner": {
         "candidate": "RAJENDRA PRASAD SINGH(RAJU SINGH)",
         "party": "All India Trinamool Congress",
@@ -6155,14 +6157,14 @@
         "votes": 74298
       },
       "margin": 13446,
-      "totalVotes": 222519,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 222519
     },
     {
       "number": 294,
       "constituency": "294 - MURARAI",
       "status": "Result Declared",
+      "roundsCounted": 22,
+      "roundsTotal": 22,
       "winner": {
         "candidate": "DR. MOSARRAF HOSSAIN",
         "party": "All India Trinamool Congress",
@@ -6176,9 +6178,7 @@
         "votes": 59197
       },
       "margin": 37705,
-      "totalVotes": 242939,
-      "roundsCounted": null,
-      "roundsTotal": null
+      "totalVotes": 242939
     }
   ]
 }
