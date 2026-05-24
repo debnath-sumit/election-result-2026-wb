@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-05-24T01:40:09.187Z",
+  "scrapedAt": "2026-05-24T05:51:20.896Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -3012,23 +3012,23 @@
     {
       "number": 144,
       "constituency": "144 - FALTA",
-      "status": "Unknown",
-      "roundsCounted": 0,
-      "roundsTotal": 0,
+      "status": "Counting",
+      "roundsCounted": 6,
+      "roundsTotal": 21,
       "winner": {
-        "candidate": "ABDUR RAZZAK MOLLA",
-        "party": "Indian National Congress",
-        "partyShort": "INC",
-        "votes": 0
+        "candidate": "DEBANGSHU PANDA",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 37474
       },
       "runnerUp": {
-        "candidate": "JAHANGIR KHAN",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 0
+        "candidate": "SAMBHU NATH KURMI",
+        "party": "Communist Party of India (Marxist)",
+        "partyShort": "CPI(M)",
+        "votes": 17773
       },
-      "margin": 0,
-      "totalVotes": null
+      "margin": 19701,
+      "totalVotes": 61505
     },
     {
       "number": 145,
