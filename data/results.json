@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-05-24T11:32:33.765Z",
+  "scrapedAt": "2026-05-24T12:22:57.177Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -3012,23 +3012,23 @@
     {
       "number": 144,
       "constituency": "144 - FALTA",
-      "status": "Counting",
-      "roundsCounted": 21,
+      "status": "Result Declared",
+      "roundsCounted": 22,
       "roundsTotal": 22,
       "winner": {
         "candidate": "DEBANGSHU PANDA",
         "party": "Bharatiya Janata Party",
         "partyShort": "BJP",
-        "votes": 148994
+        "votes": 149666
       },
       "runnerUp": {
         "candidate": "SAMBHU NATH KURMI",
         "party": "Communist Party of India (Marxist)",
         "partyShort": "CPI(M)",
-        "votes": 40627
+        "votes": 40645
       },
-      "margin": 108367,
-      "totalVotes": 209445
+      "margin": 109021,
+      "totalVotes": 210192
     },
     {
       "number": 145,
