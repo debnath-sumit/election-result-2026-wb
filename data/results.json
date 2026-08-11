@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-11T09:45:45.037Z",
+  "scrapedAt": "2026-08-11T10:36:48.159Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -4901,14 +4901,24 @@
     },
     {
       "number": 234,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "234 - SALBONI",
+      "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
+      "winner": {
+        "candidate": "BIMAN MAHATA",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 132856
+      },
+      "runnerUp": {
+        "candidate": "SRIKANTA MAHATA",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 117613
+      },
+      "margin": 15243,
+      "totalVotes": 266475
     },
     {
       "number": 235,
