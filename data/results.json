@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-16T19:20:32.934Z",
+  "scrapedAt": "2026-08-16T21:40:00.313Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -5888,24 +5888,14 @@
     },
     {
       "number": 281,
-      "constituency": "281 - ASANSOL UTTAR",
-      "status": "Result Declared",
-      "roundsCounted": 15,
-      "roundsTotal": 15,
-      "winner": {
-        "candidate": "KRISHNENDU MUKHERJEE",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 104516
-      },
-      "runnerUp": {
-        "candidate": "MOLOY GHATAK",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 92901
-      },
-      "margin": 11615,
-      "totalVotes": 210607
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 282,
