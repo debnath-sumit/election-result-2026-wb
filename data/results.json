@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-18T05:46:55.079Z",
+  "scrapedAt": "2026-08-18T06:08:18.130Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -2843,24 +2843,14 @@
     },
     {
       "number": 136,
-      "constituency": "136 - JAYNAGAR",
-      "status": "Result Declared",
-      "roundsCounted": 18,
-      "roundsTotal": 18,
-      "winner": {
-        "candidate": "BISWANATH DAS",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 108194
-      },
-      "runnerUp": {
-        "candidate": "ALOKE HALDER",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 81844
-      },
-      "margin": 26350,
-      "totalVotes": 219107
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 137,
