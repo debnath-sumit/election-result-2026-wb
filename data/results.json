@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-19T08:07:51.246Z",
+  "scrapedAt": "2026-08-19T10:48:01.508Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1961,24 +1961,14 @@
     },
     {
       "number": 94,
-      "constituency": "94 - BAGDA",
-      "status": "Result Declared",
-      "roundsCounted": 23,
-      "roundsTotal": 23,
-      "winner": {
-        "candidate": "SOMA THAKUR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 121307
-      },
-      "runnerUp": {
-        "candidate": "MADHUPARNA THAKUR",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 86691
-      },
-      "margin": 34616,
-      "totalVotes": 217223
+      "constituency": "Request Details",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 95,
@@ -2654,24 +2644,14 @@
     },
     {
       "number": 127,
-      "constituency": "127 - GOSABA",
-      "status": "Result Declared",
-      "roundsCounted": 21,
-      "roundsTotal": 21,
-      "winner": {
-        "candidate": "BIKARNA NASKAR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 108492
-      },
-      "runnerUp": {
-        "candidate": "SUBRATA MONDAL",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 92392
-      },
-      "margin": 16100,
-      "totalVotes": 211328
+      "constituency": "Request Details",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 128,
