@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-19T11:07:56.884Z",
+  "scrapedAt": "2026-08-19T11:29:29.165Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1289,14 +1289,24 @@
     },
     {
       "number": 62,
-      "constituency": "Request Details",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "62 - BHAGAWANGOLA",
+      "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
+      "winner": {
+        "candidate": "REYAT HOSSAIN SARKAR",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 105997
+      },
+      "runnerUp": {
+        "candidate": "MAHAMUDAL HASAN",
+        "party": "Communist Party of India (Marxist)",
+        "partyShort": "CPI(M)",
+        "votes": 49590
+      },
+      "margin": 56407,
+      "totalVotes": 218216
     },
     {
       "number": 63,
@@ -1447,24 +1457,14 @@
     },
     {
       "number": 70,
-      "constituency": "70 - REJINAGAR",
-      "status": "Result Declared",
-      "roundsCounted": 15,
-      "roundsTotal": 15,
-      "winner": {
-        "candidate": "HUMAYUN KABIR",
-        "party": "Aam Janata Unnayan party",
-        "partyShort": "AJUP",
-        "votes": 123536
-      },
-      "runnerUp": {
-        "candidate": "BAPAN GHOSH",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 64660
-      },
-      "margin": 58876,
-      "totalVotes": 239295
+      "constituency": "Request Details",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 71,
@@ -2455,14 +2455,24 @@
     },
     {
       "number": 118,
-      "constituency": "Request Details",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "118 - MADHYAMGRAM",
+      "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
+      "winner": {
+        "candidate": "RATHIN GHOSH",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 95995
+      },
+      "runnerUp": {
+        "candidate": "ANINDYA BANERJEE",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 93596
+      },
+      "margin": 2399,
+      "totalVotes": 232916
     },
     {
       "number": 119,
@@ -4713,24 +4723,14 @@
     },
     {
       "number": 226,
-      "constituency": "226 - SABANG",
-      "status": "Result Declared",
-      "roundsCounted": 27,
-      "roundsTotal": 27,
-      "winner": {
-        "candidate": "AMAL KUMAR PANDA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 127783
-      },
-      "runnerUp": {
-        "candidate": "MANAS RANJAN BHUNIA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 116647
-      },
-      "margin": 11136,
-      "totalVotes": 257340
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 227,
