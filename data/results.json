@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-19T10:48:01.508Z",
+  "scrapedAt": "2026-08-19T11:07:56.884Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1289,24 +1289,14 @@
     },
     {
       "number": 62,
-      "constituency": "62 - BHAGAWANGOLA",
-      "status": "Result Declared",
-      "roundsCounted": 21,
-      "roundsTotal": 21,
-      "winner": {
-        "candidate": "REYAT HOSSAIN SARKAR",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 105997
-      },
-      "runnerUp": {
-        "candidate": "MAHAMUDAL HASAN",
-        "party": "Communist Party of India (Marxist)",
-        "partyShort": "CPI(M)",
-        "votes": 49590
-      },
-      "margin": 56407,
-      "totalVotes": 218216
+      "constituency": "Request Details",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 63,
@@ -1961,14 +1951,24 @@
     },
     {
       "number": 94,
-      "constituency": "Request Details",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "94 - BAGDA",
+      "status": "Result Declared",
+      "roundsCounted": 23,
+      "roundsTotal": 23,
+      "winner": {
+        "candidate": "SOMA THAKUR",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 121307
+      },
+      "runnerUp": {
+        "candidate": "MADHUPARNA THAKUR",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 86691
+      },
+      "margin": 34616,
+      "totalVotes": 217223
     },
     {
       "number": 95,
@@ -2455,24 +2455,14 @@
     },
     {
       "number": 118,
-      "constituency": "118 - MADHYAMGRAM",
-      "status": "Result Declared",
-      "roundsCounted": 17,
-      "roundsTotal": 17,
-      "winner": {
-        "candidate": "RATHIN GHOSH",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 95995
-      },
-      "runnerUp": {
-        "candidate": "ANINDYA BANERJEE",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 93596
-      },
-      "margin": 2399,
-      "totalVotes": 232916
+      "constituency": "Request Details",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 119,
@@ -2644,14 +2634,24 @@
     },
     {
       "number": 127,
-      "constituency": "Request Details",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "127 - GOSABA",
+      "status": "Result Declared",
+      "roundsCounted": 21,
+      "roundsTotal": 21,
+      "winner": {
+        "candidate": "BIKARNA NASKAR",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 108492
+      },
+      "runnerUp": {
+        "candidate": "SUBRATA MONDAL",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 92392
+      },
+      "margin": 16100,
+      "totalVotes": 211328
     },
     {
       "number": 128,
