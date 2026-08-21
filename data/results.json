@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-21T13:31:50.478Z",
+  "scrapedAt": "2026-08-21T14:12:00.168Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -2696,24 +2696,14 @@
     },
     {
       "number": 129,
-      "constituency": "129 - KULTALI",
-      "status": "Result Declared",
-      "roundsCounted": 19,
-      "roundsTotal": 19,
-      "winner": {
-        "candidate": "GANESH CHANDRA MONDAL",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 146435
-      },
-      "runnerUp": {
-        "candidate": "MADHABI MAHALDER",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 87159
-      },
-      "margin": 59276,
-      "totalVotes": 253551
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 130,
