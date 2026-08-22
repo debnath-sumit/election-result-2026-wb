@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-22T07:49:16.872Z",
+  "scrapedAt": "2026-08-22T08:07:47.333Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1856,14 +1856,24 @@
     },
     {
       "number": 89,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "89 - RANAGHAT UTTAR PURBA",
+      "status": "Result Declared",
+      "roundsCounted": 17,
+      "roundsTotal": 17,
+      "winner": {
+        "candidate": "ASHIM BISWAS",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 126235
+      },
+      "runnerUp": {
+        "candidate": "BARNALI DEY ROY",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 74492
+      },
+      "margin": 51743,
+      "totalVotes": 211396
     },
     {
       "number": 90,
