@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-22T16:45:59.197Z",
+  "scrapedAt": "2026-08-22T17:19:19.942Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -4733,24 +4733,14 @@
     },
     {
       "number": 226,
-      "constituency": "226 - SABANG",
-      "status": "Result Declared",
-      "roundsCounted": 27,
-      "roundsTotal": 27,
-      "winner": {
-        "candidate": "AMAL KUMAR PANDA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 127783
-      },
-      "runnerUp": {
-        "candidate": "MANAS RANJAN BHUNIA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 116647
-      },
-      "margin": 11136,
-      "totalVotes": 257340
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 227,
