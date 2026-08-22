@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-22T08:31:14.863Z",
+  "scrapedAt": "2026-08-22T10:32:02.877Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -3662,14 +3662,24 @@
     },
     {
       "number": 175,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "175 - PANCHLA",
+      "status": "Result Declared",
+      "roundsCounted": 18,
+      "roundsTotal": 18,
+      "winner": {
+        "candidate": "GULSAN MULLICK",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 123967
+      },
+      "runnerUp": {
+        "candidate": "RANJAN PAUL",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 85647
+      },
+      "margin": 38320,
+      "totalVotes": 235163
     },
     {
       "number": 176,
@@ -5563,24 +5573,14 @@
     },
     {
       "number": 266,
-      "constituency": "266 - BARDHAMAN UTTAR",
-      "status": "Result Declared",
-      "roundsCounted": 19,
-      "roundsTotal": 19,
-      "winner": {
-        "candidate": "NISITH KUMAR MALIK",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 112688
-      },
-      "runnerUp": {
-        "candidate": "SANJOY DAS",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 106228
-      },
-      "margin": 6460,
-      "totalVotes": 247932
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 267,
