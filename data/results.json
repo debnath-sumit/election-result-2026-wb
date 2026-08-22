@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-22T10:32:02.877Z",
+  "scrapedAt": "2026-08-22T10:54:54.412Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -5573,14 +5573,24 @@
     },
     {
       "number": 266,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "266 - BARDHAMAN UTTAR",
+      "status": "Result Declared",
+      "roundsCounted": 19,
+      "roundsTotal": 19,
+      "winner": {
+        "candidate": "NISITH KUMAR MALIK",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 112688
+      },
+      "runnerUp": {
+        "candidate": "SANJOY DAS",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 106228
+      },
+      "margin": 6460,
+      "totalVotes": 247932
     },
     {
       "number": 267,
