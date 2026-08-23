@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-23T09:52:23.374Z",
+  "scrapedAt": "2026-08-23T11:09:45.067Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1457,14 +1457,24 @@
     },
     {
       "number": 70,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "70 - REJINAGAR",
+      "status": "Result Declared",
+      "roundsCounted": 15,
+      "roundsTotal": 15,
+      "winner": {
+        "candidate": "HUMAYUN KABIR",
+        "party": "Aam Janata Unnayan party",
+        "partyShort": "AJUP",
+        "votes": 123536
+      },
+      "runnerUp": {
+        "candidate": "BAPAN GHOSH",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 64660
+      },
+      "margin": 58876,
+      "totalVotes": 239295
     },
     {
       "number": 71,
@@ -2287,14 +2297,24 @@
     },
     {
       "number": 110,
-      "constituency": "",
-      "status": "Unknown",
-      "roundsCounted": null,
-      "roundsTotal": null,
-      "winner": null,
-      "runnerUp": null,
-      "margin": null,
-      "totalVotes": null
+      "constituency": "110 - DUM DUM UTTAR",
+      "status": "Result Declared",
+      "roundsCounted": 16,
+      "roundsTotal": 16,
+      "winner": {
+        "candidate": "SOURAV SIKDAR",
+        "party": "Bharatiya Janata Party",
+        "partyShort": "BJP",
+        "votes": 103284
+      },
+      "runnerUp": {
+        "candidate": "CHANDRIMA BHATTACHARYA",
+        "party": "All India Trinamool Congress",
+        "partyShort": "AITC",
+        "votes": 76880
+      },
+      "margin": 26404,
+      "totalVotes": 223349
     },
     {
       "number": 111,
