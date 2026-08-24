@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-08-24T04:15:49.026Z",
+  "scrapedAt": "2026-08-24T05:41:39.097Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -365,24 +365,14 @@
     },
     {
       "number": 18,
-      "constituency": "18 - RAJGANJ",
-      "status": "Result Declared",
-      "roundsCounted": 13,
-      "roundsTotal": 13,
-      "winner": {
-        "candidate": "DINESH SARKAR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 114657
-      },
-      "runnerUp": {
-        "candidate": "SWAPNA BARMAN",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 93180
-      },
-      "margin": 21477,
-      "totalVotes": 224379
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 19,
@@ -995,24 +985,14 @@
     },
     {
       "number": 48,
-      "constituency": "48 - RATUA",
-      "status": "Result Declared",
-      "roundsCounted": 23,
-      "roundsTotal": 23,
-      "winner": {
-        "candidate": "SAMAR MUKHERJEE",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 106834
-      },
-      "runnerUp": {
-        "candidate": "ABISHEK SINGHANIA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 74272
-      },
-      "margin": 32562,
-      "totalVotes": 233138
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 49,
@@ -1121,24 +1101,14 @@
     },
     {
       "number": 54,
-      "constituency": "54 - BAISNABNAGAR",
-      "status": "Result Declared",
-      "roundsCounted": 21,
-      "roundsTotal": 21,
-      "winner": {
-        "candidate": "RAJU KARMAKAR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 108692
-      },
-      "runnerUp": {
-        "candidate": "CHANDANA SARKAR",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 61811
-      },
-      "margin": 46881,
-      "totalVotes": 224839
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 55,
@@ -1520,24 +1490,14 @@
     },
     {
       "number": 73,
-      "constituency": "73 - HARIHARPARA",
-      "status": "Result Declared",
-      "roundsCounted": 22,
-      "roundsTotal": 22,
-      "winner": {
-        "candidate": "NIAMOT SHEIKH",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 80338
-      },
-      "runnerUp": {
-        "candidate": "BIJOY SEKH",
-        "party": "Aam Janata Unnayan party",
-        "partyShort": "AJUP",
-        "votes": 67673
-      },
-      "margin": 12665,
-      "totalVotes": 235296
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 74,
@@ -3536,24 +3496,14 @@
     },
     {
       "number": 169,
-      "constituency": "169 - BALLY",
-      "status": "Result Declared",
-      "roundsCounted": 15,
-      "roundsTotal": 15,
-      "winner": {
-        "candidate": "SANJAY KUMAR SINGH",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 57639
-      },
-      "runnerUp": {
-        "candidate": "KAILASH KUMAR MISHRA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 45642
-      },
-      "margin": 11997,
-      "totalVotes": 117838
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 170,
@@ -3578,24 +3528,14 @@
     },
     {
       "number": 171,
-      "constituency": "171 - HOWRAH MADHYA",
-      "status": "Result Declared",
-      "roundsCounted": 17,
-      "roundsTotal": 17,
-      "winner": {
-        "candidate": "ARUP ROY",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 95948
-      },
-      "runnerUp": {
-        "candidate": "BIPLAB KUMAR MANDAL",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 79865
-      },
-      "margin": 16083,
-      "totalVotes": 193459
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 172,
@@ -3662,24 +3602,14 @@
     },
     {
       "number": 175,
-      "constituency": "175 - PANCHLA",
-      "status": "Result Declared",
-      "roundsCounted": 18,
-      "roundsTotal": 18,
-      "winner": {
-        "candidate": "GULSAN MULLICK",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 123967
-      },
-      "runnerUp": {
-        "candidate": "RANJAN PAUL",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 85647
-      },
-      "margin": 38320,
-      "totalVotes": 235163
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 176,
@@ -4103,24 +4033,14 @@
     },
     {
       "number": 196,
-      "constituency": "196 - HARIPAL",
-      "status": "Result Declared",
-      "roundsCounted": 27,
-      "roundsTotal": 27,
-      "winner": {
-        "candidate": "MADHUMITA GHOSH",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 113332
-      },
-      "runnerUp": {
-        "candidate": "KARABI MANNA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 109844
-      },
-      "margin": 3488,
-      "totalVotes": 245994
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 197,
@@ -4439,24 +4359,14 @@
     },
     {
       "number": 212,
-      "constituency": "212 - PATASHPUR",
-      "status": "Result Declared",
-      "roundsCounted": 18,
-      "roundsTotal": 18,
-      "winner": {
-        "candidate": "TAPAN MAITY",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 116589
-      },
-      "runnerUp": {
-        "candidate": "PIJUS KANTI PANDA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 107538
-      },
-      "margin": 9051,
-      "totalVotes": 232048
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 213,
@@ -5321,24 +5231,14 @@
     },
     {
       "number": 254,
-      "constituency": "254 - ONDA",
-      "status": "Result Declared",
-      "roundsCounted": 23,
-      "roundsTotal": 23,
-      "winner": {
-        "candidate": "AMARNATH SHAKHA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 128296
-      },
-      "runnerUp": {
-        "candidate": "SUBRATA DUTTA (GOPI)",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 96573
-      },
-      "margin": 31723,
-      "totalVotes": 246292
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 255,
@@ -5531,24 +5431,14 @@
     },
     {
       "number": 264,
-      "constituency": "264 - KALNA",
-      "status": "Result Declared",
-      "roundsCounted": 21,
-      "roundsTotal": 21,
-      "winner": {
-        "candidate": "SIDDHARTHA MAJUMDAR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 110790
-      },
-      "runnerUp": {
-        "candidate": "DEBO PRASAD BAG (POLTU)",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 82160
-      },
-      "margin": 28630,
-      "totalVotes": 213233
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 265,
@@ -6098,24 +5988,14 @@
     },
     {
       "number": 291,
-      "constituency": "291 - RAMPURHAT",
-      "status": "Result Declared",
-      "roundsCounted": 23,
-      "roundsTotal": 23,
-      "winner": {
-        "candidate": "DHRUBA SAHA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 111920
-      },
-      "runnerUp": {
-        "candidate": "ASISH BANERJEE",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 87687
-      },
-      "margin": 24233,
-      "totalVotes": 233723
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 292,
