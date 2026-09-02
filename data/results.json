@@ -3,7 +3,7 @@
   "stateCode": "S25",
   "electionTitle": "Legislative Assembly Election, May 2026",
   "source": "https://results.eci.gov.in/ResultAcGenMay2026/",
-  "scrapedAt": "2026-09-02T14:52:19.802Z",
+  "scrapedAt": "2026-09-02T18:16:38.759Z",
   "totalConstituencies": 294,
   "results": [
     {
@@ -1709,108 +1709,58 @@
     },
     {
       "number": 82,
-      "constituency": "82 - CHAPRA",
-      "status": "Result Declared",
-      "roundsCounted": 14,
-      "roundsTotal": 14,
-      "winner": {
-        "candidate": "JEBER SEKH",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 97085
-      },
-      "runnerUp": {
-        "candidate": "SAIKAT SARKAR",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 66305
-      },
-      "margin": 30780,
-      "totalVotes": 210762
+      "constituency": "502 Bad Gateway",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 83,
-      "constituency": "83 - KRISHNANAGAR UTTAR",
-      "status": "Result Declared",
-      "roundsCounted": 14,
-      "roundsTotal": 14,
-      "winner": {
-        "candidate": "TARAK NATH CHATTERJEE",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 133211
-      },
-      "runnerUp": {
-        "candidate": "SOMNATH DUTTA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 54850
-      },
-      "margin": 78361,
-      "totalVotes": 202057
+      "constituency": "502 Bad Gateway",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 84,
-      "constituency": "84 - NABADWIP",
-      "status": "Result Declared",
-      "roundsCounted": 14,
-      "roundsTotal": 14,
-      "winner": {
-        "candidate": "SRUTISEKHAR GOSWAMI",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 108631
-      },
-      "runnerUp": {
-        "candidate": "PUNDARIKAKSHYA SAHA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 87187
-      },
-      "margin": 21444,
-      "totalVotes": 218181
+      "constituency": "502 Bad Gateway",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 85,
-      "constituency": "85 - KRISHNANAGAR DAKSHIN",
-      "status": "Result Declared",
-      "roundsCounted": 14,
-      "roundsTotal": 14,
-      "winner": {
-        "candidate": "SADHAN GHOSH",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 102862
-      },
-      "runnerUp": {
-        "candidate": "UJJAL BISWAS",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 75061
-      },
-      "margin": 27801,
-      "totalVotes": 197084
+      "constituency": "502 Bad Gateway",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 86,
-      "constituency": "86 - SANTIPUR",
-      "status": "Result Declared",
-      "roundsCounted": 17,
-      "roundsTotal": 17,
-      "winner": {
-        "candidate": "SWAPAN KUMAR DAS",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 117941
-      },
-      "runnerUp": {
-        "candidate": "BRAJAKISHORE GOSWAMI",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 72565
-      },
-      "margin": 45376,
-      "totalVotes": 214973
+      "constituency": "502 Bad Gateway",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 87,
@@ -4460,24 +4410,14 @@
     },
     {
       "number": 213,
-      "constituency": "213 - KANTHI UTTAR",
-      "status": "Result Declared",
-      "roundsCounted": 26,
-      "roundsTotal": 26,
-      "winner": {
-        "candidate": "SUMITA SINHA",
-        "party": "Bharatiya Janata Party",
-        "partyShort": "BJP",
-        "votes": 130088
-      },
-      "runnerUp": {
-        "candidate": "DEBASIS BHUNYA",
-        "party": "All India Trinamool Congress",
-        "partyShort": "AITC",
-        "votes": 110033
-      },
-      "margin": 20055,
-      "totalVotes": 249421
+      "constituency": "",
+      "status": "Unknown",
+      "roundsCounted": null,
+      "roundsTotal": null,
+      "winner": null,
+      "runnerUp": null,
+      "margin": null,
+      "totalVotes": null
     },
     {
       "number": 214,
